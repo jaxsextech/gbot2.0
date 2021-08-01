@@ -9,6 +9,7 @@ const { color, bgcolor } = require('./lib/color')
 const {help1} = require('./src/help1')
 const {menu4} = require('./src/menu4')
 const { modapk } = require('./src/modapk')
+const {frases} = require('./Fxc7/quotes')
 const { pack } = require('./src/pack')
 const { outros } = require('./src/outros')
 const { vipmenu } = require('./src/vipmenu')
@@ -25,7 +26,7 @@ const { gcpf } = require('./src/gcpf')
 const { addsay } = require('./src/addsay')
 const { listsay } = require('./src/listsay')
 const { addfoto } = require('./src/addfoto')
-const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, banner, start, info, success, close } = require('./lib/functions')
+const { wait, simih, getBuffer,getBuffer2,getBuffer3, h2k, generateMessageID, getGroupAdmins, getRandom, banner, start, info, success, close } = require('./lib/functions')
 const { fetchJson } = require('./lib/fetcher')
 const { gbfb } = require('./gb/bash/gbfb')
 const { fbcheker } = require('./gb/bash/fbcheker')
@@ -60,6 +61,8 @@ const ffmpeg = require('fluent-ffmpeg')
 const { removeBackgroundFromImageFile } = require('remove.bg')
 const imgbb = require('imgbb-uploader')
 const lolis = require('lolis.life')
+const { ind } = require('./bahasa')
+
 const loli = new lolis()
 const { name, yt, replySet } = JSON.parse(fs.readFileSync('./database/json/setting.json'))
 const welkom = JSON.parse(fs.readFileSync('./src/welkom.json'))
@@ -97,6 +100,9 @@ const setting = JSON.parse(fs.readFileSync('./database/json/setting.json'))
 			pushname2 = client.contacts[nameReq] != undefined ? client.contacts[nameReq].vname || client.contacts[nameReq].notify : undefined
 
 */
+const dataRevoke = JSON.parse(fs.readFileSync('./src/gc-revoked.json'))
+const dataCtRevoke = JSON.parse(fs.readFileSync('./src/ct-revoked.json'))
+const dataBanCtRevoke = JSON.parse(fs.readFileSync('./src/ct-revoked-banlist.json'))
 const user = JSON.parse(fs.readFileSync('./database/json/user.json'))
 const publik = JSON.parse(fs.readFileSync('./database/json/public.json'))
 const bucinrandom = JSON.parse(fs.readFileSync('./database/json/bucin.json'))
@@ -164,7 +170,7 @@ const line14 = '*4.0*';
 const line15 = '╔══✪〘 ';
 const line16 = '*MENU*';
 const root = 'Gb Bot';
-const line17 = '*Vai tomar no cu*';
+const line17 = '*MARCELA BOT ©️*';
 const tobzkey = 'apitobz';
 const BotName = 'Gb Bot'; 
 const instagram = 'http://www.instagram.com/'; 
@@ -1029,7 +1035,7 @@ const putas = ['😏 Tu é uma bendita puta! 💄💰',
             '93% 💄💰',
             '92% 💄💰',
             '91% 💄💰',
-            '90% 💄💰',
+            '90% 💄??',
             '89% 💄💰',
             '88% 💄💰',
             '87% 💄💰',
@@ -1389,7 +1395,7 @@ if (text.includes("placa"))
 		}, 1000)
 		setTimeout( () => {
 			client.updatePresence(from, Presence.composing)
-			reply("5 segundo KKKKKKKK tchau otário 😔🤙")
+			reply("5 segundo KKKKKKKK tchau otário 😔??")
 		}, 0)
 	}
 	
@@ -1578,6 +1584,22 @@ const get = require('got')
 			client.updatePresence(from, Presence.composing)
 			reply("nossa 🥺")
 	}
+	
+	       if (messagesC.includes("pai")){
+			client.updatePresence(from, Presence.composing)
+			reply("pai de gente feia é o diabo")
+	}
+	
+	       if (messagesC.includes("como")){
+			client.updatePresence(from, Presence.composing)
+			reply("como você ehehhe trolei")
+	}
+	
+	       if (messagesC.includes("puto")){
+			client.updatePresence(from, Presence.composing)
+			reply("na minha cama")
+	}
+	      
 	
 			if (messagesC.includes("vadia")){
 			client.updatePresence(from, Presence.composing)
@@ -2129,6 +2151,10 @@ case 'help4':
                     if (!isPremium) return reply(mess.only.premium)
                     client.sendMessage(from, gcpf(prefix), text, { quoted: mek })
                     break
+                case 'frases':
+                    if (!isPremium) return reply(mess.only.premium)
+                    client.sendMessage(from, frases(prefix), text, { quoted: mek })
+                    break
 				case 'ytmp4':
 					if (args.length < 1) return reply('Cadê o url, hum?')
 					if(!isUrl(args[0]) && !args[0].includes('youtu')) return reply(mess.error.Iv)
@@ -2369,14 +2395,149 @@ case 'cep1':
 					break
               case 'voz':
              voz = body.slice(5)
-             buffer = await getBuffer(`https://www.myinstants.com/media/sounds/${voz}.mp3`)            
-          //   client.sendMessage(from, buffer, audio,)
-             client.sendMessage(from, buffer, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+             buffer2 = await getBuffer2(`https://www.myinstants.com/media/sounds/${voz}.mp3`)            
+         
+             client.sendMessage(from, buffer2, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
              
-                console.log(`Error :`, color(e,'red'))
-                reply("Áudio não encontrado.")
+             //   console.log(`Error :`, color(e,'red'))
+             //    reply("Áudio não encontrado.")
                 
              break 
+             
+					case 'antidelete':
+					
+					if (!isGroup) return reply(ind.groupo())
+					
+					//if (!isGroupAdmins) return reply(ind.admin())
+				
+				const dataRevoke = JSON.parse(fs.readFileSync('./src/gc-revoked.json'))
+				
+				const dataCtRevoke = JSON.parse(fs.readFileSync('./src/ct-revoked.json'))
+				
+				const dataBanCtRevoke = JSON.parse(fs.readFileSync('./src/ct-revoked-banlist.json'))
+				
+				const isRevoke = dataRevoke.includes(from)
+				
+				const isCtRevoke = dataCtRevoke.data
+				
+				const isBanCtRevoke = dataBanCtRevoke.includes(sender) ? true : false
+				
+				const argz = body.split(' ')
+				
+				if (argz.length === 1) return client.sendMessage(from, `Penggunaan fitur antidelete :\n\n*${prefix}antidelete [aktif/mati]* (Untuk grup)\n*${prefix}antidelete [ctaktif/ctmati]* (untuk semua kontak)\n*${prefix}antidelete banct 628558xxxxxxx* (banlist kontak)`, MessageType.text)
+				
+				if (argz[1] == 'on') {
+				
+					if (isGroup) {
+					
+						if (isRevoke) return client.sendMessage(from, `Antidelete telah diaktifkan di grup ini sebelumnya!`, MessageType.text)
+						
+						dataRevoke.push(from)
+						
+						fs.writeFileSync('./src/gc-revoked.json', JSON.stringify(dataRevoke, null, 2))
+						
+						client.sendMessage(from, `*Succes Enable Antidelete Grup!*`, MessageType.text)
+						
+					} else if (!isGroup) {
+					
+						client.sendMessage(from, `Untuk kontak penggunaan *${prefix}antidelete ctaktif*`, MessageType.text)
+						
+					}
+					
+				} else if (argz[1] == 'ctaktif') {
+				
+					if (!isGroup) {
+					
+						if (isCtRevoke) return client.sendMessage(from, `Antidelete telah diaktifkan di semua kontak sebelumnya!`, MessageType.text)
+						
+						dataCtRevoke.data = true
+						
+						fs.writeFileSync('./src/ct-revoked.json', JSON.stringify(dataCtRevoke, null, 2))
+						
+						client.sendMessage(from, `Antidelete diaktifkan disemua kontak!`, MessageType.text)
+						
+					} else if (isGroup) {
+					
+						client.sendMessage(from, `Untuk grup penggunaan *${prefix}antidelete aktif*`, MessageType.text)
+						
+					}
+					
+				} else if (argz[1] == 'banct') {
+				
+					if (isBanCtRevoke) return client.sendMessage(from, `kontak ini telah ada di database banlist!`, MessageType.text)
+					
+					if (argz.length === 2 || argz[2].startsWith('0')) return client.sendMessage(from, `Masukan nomer diawali dengan 62! contoh 62859289xxxxx`, MessageType.text)
+					
+					dataBanCtRevoke.push(argz[2] + '@s.whatsapp.net')
+					
+					fs.writeFileSync('./src/ct-revoked-banlist.json', JSON.stringify(dataBanCtRevoke, null, 2))
+					
+					client.sendMessage(from, `Kontak ${argz[2]} telah dimasukan ke banlist antidelete secara permanen!`, MessageType.text)
+					
+				} else if (argz[1] == 'mati') {
+				
+					if (isGroup) {
+					
+						const index = dataRevoke.indexOf(from)
+						
+						dataRevoke.splice(index, 1)
+						
+						fs.writeFileSync('./src/gc-revoked.json', JSON.stringify(dataRevoke, null, 2))
+						
+						client.sendMessage(from, `*Succes disable Antidelete Grup!*`, MessageType.text)
+						
+					} else if (!isGroup) {
+					
+						client.sendMessage(from, `Untuk kontak penggunaan *${prefix}antidelete ctmati*`, MessageType.text)
+						
+					}
+					
+				} else if (argz[1] == 'ctmati') {
+				
+					if (!isGroup) {
+					
+						dataCtRevoke.data = false
+						
+						fs.writeFileSync('./src/ct-revoked.json', JSON.stringify(dataCtRevoke, null, 2))
+						
+						client.sendMessage(from, `Antidelete dimatikan disemua kontak!`, MessageType.text)
+						
+					} else if (isGroup) {
+					
+						client.sendMessage(from, `Untuk grup penggunaan *${prefix}antidelete mati*`, MessageType.text)
+						
+					}
+					
+				}
+				
+				break
+                      case 'data':
+             buffer2 = await getBuffer2(`https://screenshotapi-dot-net.storage.googleapis.com/docs_google_com_spreadsheets_u_0_d_1ifnieljwmglymzl5tnbzx7bd1nrtg6r6vjp_teszwhm_htmlview_9b66908a5e10.png`)            
+          
+             client.sendMessage(from, buffer2, image, {quoted: mek, mimetype: 'image/png', ptt:true})
+             
+        //        console.log(`Error :`, color(e,'red'))
+      //          reply("Áudio não encontrado.")
+                
+             break 
+             case 'play4':   
+				  if (args.length < 1) return reply('*nome da msc fdp?*')
+               client.sendMessage(from, ind.wait, text,{quoted : mek})
+				play = args.join(" ")
+				anu = await fetchJson(`https://api.xteam.xyz/dl/play?lagu=${play}&APIKEY=Beli_Sendiri`)
+				if (anu.error) return reply(ind.error)
+				infomp3   =`*「 Play To Mp3 」*
+				
+Nome : ${anu.judul}
+Tamanho : ${anu.size}
+Source : ${anu.source}
+				
+*_Tunggu Sebentar.._* `
+				buffer = await getBuffer2(anu.thumbnail)
+				client.sendMessage(from, buffer, image, {quoted: mek, caption: infomp3})
+        lagu = await getBuffer(anu.url)
+				client.sendMessage(from, lagu, audio, {mimetype: 'audio/mp4', filename: `${anu.url}.mp3`, quoted: mek})
+				break
                 case 'stiltext':
                       if (args.length < 1) return reply('Cadê o texto?')
                       gh = body.slice(11)
@@ -4292,8 +4453,8 @@ case 'tapa':
 					}
 					mentions(teks, members_id, true)
 					break
-                case 'pinterest':
-                    tels = body.slice(11)
+            /*    case 'pinterest':
+                   tels = body.slice(11)
 					client.updatePresence(from, Presence.composing) 
 					data = await fetchJson(`https://api.fdci.se/rep.php?gambar=${tels}`, {method: 'get'})
 					reply(mess.wait)
@@ -4302,7 +4463,293 @@ case 'tapa':
 					pok = await getBuffer(nimek)
 					client.sendMessage(from, pok, image, { quoted: mek, caption: `*PINTEREST*\n\*Resultado da pesquisa* : *${tels}*`})
                     await limitAdd(sender)
+					break */
+					case 'nazista':
+					const porcentaagem = Math.floor(Math.random() * (100-1) + 1);
+					const buffer = await getBuffer('https://i.imgur.com/sr1kBos.jpg');
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: `_*MEDIDOR DE NAZISTA:*_\n*VOCÊ É* *${porcentaagem}%* *NAZISTA*😎 🇩🇪 卐`})
+					break;
+				case 'judeu':
+					const judaic = Math.floor(Math.random() * (100-1) + 1);
+					const judeu = await getBuffer('https://i.imgur.com/cOFHFct.jpg');
+					client.sendMessage(from, judeu, image, {quoted: mek, caption: `_*MEDIDOR DE JUDEU:*_\n*VOCÊ É* *${judaic}%* *JUDEU*✡`})
+					break;
+				case 'pedofilo':
+					const pedofilooo = Math.floor(Math.random() * (100-1) + 1);
+					const buffpedoo = await getBuffer('https://i.imgur.com/CaRVIbo.jpg');
+					client.sendMessage(from, buffpedoo, image, {quoted: mek, caption: `_*MEDIDOR DE PEDOFILO:*_\n*VOCÊ É* *${pedofilooo}%* *PEDOFILO*🚓🚔🚨`})
+					break;
+				case 'mamaco':
+					const arrombado = Math.floor(Math.random() * (100-1) + 1);
+					const bufferMacaco = await getBuffer('https://i.imgur.com/ma6jmjh.jpg');
+					client.sendMessage(from, bufferMacaco, image, {quoted: mek, caption: `_*MEDIDOR DE PRIMATA:*_\n*VOCÊ É* *${arrombado}%* *MACACO*🐒`})
+				    break;
+					case 'pinterest':
+					
+					client.updatePresence(from, Presence.composing) 
+					data = await fetchJson(`https://fdciabdul.tech/api/pinterest/?keyword=${body.slice(11)}}`)				
+					n = JSON.parse(JSON.stringify(data));
+					nimek =  n[Math.floor(Math.random() * n.length)];
+					pok = await getBuffer(nimek)
+					client.sendMessage(from, pok, image, { quoted: mek, caption: `*PINTEREST*`})			
+					break 
+					case "ppt": //Feito por LUCAS
+				//msgFilter.isFiltered(from)
+				if (args.length < 1) return reply(ptbr.tterro())
+				ppt = ["pedra","papel","tesoura"]
+				ppy = ppt[Math.floor(Math.random() * ppt.length)]
+				ppg = Math.floor(Math.random() * 13) + 349
+				pptb = ppy
+				pph = `Você ganhou ${ppg} em xp`
+				if ((pptb == "pedra" && args == "papel") || 
+				(pptb == "papel" && args == "tesoura") || 
+				(pptb == "tesoura" && args == "pedra")) {
+				var vit = "vitoria"
+				} else if ((pptb == "pedra" && args == "tesoura") || 
+				(pptb == "papel" && args == "pedra") || 
+				(pptb == "tesoura" && args == "papel")) {
+				var vit = "derrota"
+				} else if ((pptb == "pedra" && args == "pedra") ||
+				(pptb == "papel" && args == "papel") ||
+				(pptb == "tesoura" && args == "tesoura")) {
+				var vit = "empate"
+				} else if (vit = "undefined") {
+				return reply(ptbr.tterro())
+				}
+				if (vit == "vitoria") {
+				var tes = "Vitória do jogador"
+				}
+				if (vit == "derrota" ) {
+				var tes = "A vitória é do Shurek-Bot"
+				}
+				if (vit == "empate" ) {
+				var tes = "O jogo terminou em empate"
+				}
+				reply(`Shurek-Bot jogou: ${pptb}\nO jogador jogou: ${args}\n\n${tes}`)
+				if (tes == "Vitória do jogador") {
+				reply(pph)
+				}
 					break
+          case 'amongus':
+//msgFilter.isFiltered(from)
+if (!isGroup) return reply(ptbr.group())
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('Você precisa mencionar alguém')
+mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid
+pro = '.\n'
+for (let _ of mentioned) {
+pro += `@${_.split('@')[0]}\n`
+}
+sus = 
+`.      　。　　　　•　    　ﾟ　　。
+　　.　　　.　　　  　　.　　　　　。　　   。　.
+　.　　      。　        ඞ   。　    .    •
+•            @${mentioned[0].split('@')[0]} was E j e c t e d
+                  1 impostor remain   。　.
+　 　　。　　 　　　　ﾟ　　　.　      　　　.
+,　　　　.                  .`
+//  client.groupRemove(from, mentioned)
+mentions(`${sus}`, mentioned, true)
+break
+          /*     case 'casal2':
+					if (!isGroup) return reply(mess.only.group)
+						membr = []
+						const suamae11 = groupMembers
+						const suamae21 = groupMembers
+						const teupai11 = suamae11[Math.floor(Math.random() * suamae11.length)]
+						const teupai21 = suamae21[Math.floor(Math.random() * suamae21.length)]
+						var shipted1 = ["1%", `2%`, `3%`, `4%`, `5%`, `6%`, `7`, `8%`, `9%`, `10`, `11%`, `12%`,`13%`, `14%`, `15%`, `16%`, `17%`, `18%`, `19%`, `20%`, `21%`, `22`, `23%`, `24%`, `25%`, `26%`, `27%`, `28%`, `27%`, `28%`, `29%`, `30%`, `31%`, `32%`, `33%`, `34%`, `35%`, `36%`, `37%`, `38%`, `39%`, `40%`, `41%`, `42%`, `43%`, `44%`, `45%`, `46%`, `47%`, `48%`, `49%`, `50%`, `51%`, `52%`, `53%`, `54%`, `55%`, `56%`, `57%`, `58%`, `59%`, `60%`, `61%`, `62%`, `63%`, `64%`, `65%`, `66%`, `67%`, `68%`, `69%`, `70%`, `71%`, `72%`, `73%`, `74%`, `75%`, `76%`, `77%`, `78%`, `79%`, `80%`, `81%`, `82%`, `85%`, `84%`, `85%`, `86%`, `87%`, `88%`, `89%`, `90%`, `91%`, `92%`, `93%`, `94%`, `95%`, `96%`, `97%`, `98%`, `99%`, `100%`]
+						const shipted = shipted1[Math.floor(Math.random() * shipted1.length)]
+						var frases = [`𝑄𝑢𝑒 𝑜𝑠 𝑎𝑛𝑒́𝑖𝑠 𝑑𝑒 𝑠𝑎𝑡𝑢𝑟𝑛𝑜 𝑚𝑒 𝑒𝑥𝑝𝑙𝑖𝑞𝑢𝑒𝑚 𝑐𝑜𝑚𝑜 𝑠𝑒𝑢 𝑠𝑜𝑟𝑟𝑖𝑠𝑜 𝑒 𝑠𝑒𝑢 𝑜𝑙ℎ𝑎𝑟 𝑚𝑒 𝑡𝑖𝑟𝑎 𝑑𝑒 𝑜́𝑟𝑏𝑖𝑡𝑎...`, `𝐴𝑚𝑎𝑟 𝑒́ 𝑎𝑑𝑚𝑖𝑟𝑎𝑟 𝑐𝑜𝑚 𝑜 𝑐𝑜𝑟𝑎𝑐̧𝑎̃𝑜, 𝐴𝑑𝑚𝑖𝑟𝑎𝑟 𝑐𝑜𝑚 𝑜 𝑐𝑜𝑟𝑎𝑐̧𝑎̃𝑜 𝑒́ 𝑎𝑚𝑎𝑟 𝑐𝑜𝑚 𝑜 𝑐𝑒𝑟𝑒𝑏𝑟𝑜...`, `𝑂 𝑎𝑚𝑜𝑟 𝑛𝑎̃𝑜 𝑠𝑒 𝑣𝑒̂  𝑐𝑜𝑚 𝑜𝑠 𝑜𝑙ℎ𝑜𝑠, 𝑚𝑎𝑠 𝑠𝑖𝑚 𝑐𝑜𝑚 𝑜 𝑐𝑜𝑟𝑎𝑐̧𝑎̃𝑜...`, `𝑈𝑚 𝑐𝑜𝑟𝑎𝑐̧𝑎̃𝑜 𝑓𝑒𝑙𝑖𝑧 𝑒́ 𝑜 𝑟𝑒𝑠𝑢𝑙𝑡𝑎𝑑𝑜 𝑖𝑛𝑒𝑣𝑖𝑡𝑎́𝑣𝑒𝑙 𝑑𝑒 𝑢𝑚 ̂𝑐𝑜𝑟𝑎𝑐̧𝑎̃𝑜 𝑎𝑟𝑑𝑒𝑛𝑡𝑒 𝑑𝑒 𝑎𝑚𝑜𝑟...`, `𝐿𝑢𝑡𝑎𝑟 𝑝𝑒𝑙𝑜 𝑎𝑚𝑜𝑟 𝑒́ 𝑏𝑜𝑚, 𝑚𝑎𝑠 𝑎𝑙𝑐𝑎𝑛𝑐̧𝑎-𝑙𝑜 𝑠𝑒𝑚 𝑙𝑢𝑡𝑎 𝑒́ 𝑚𝑒𝑙ℎ𝑜𝑟... -𝑊𝑖𝑙𝑙𝑖𝑎𝑛 𝑆ℎ𝑎𝑘𝑒𝑠𝑝𝑒𝑎𝑟𝑒`, `𝑂 𝑎𝑚𝑜𝑟 𝑒́ 𝑜 𝑒𝑠𝑝𝑎𝑐̧𝑜 𝑒 𝑜 𝑡𝑒𝑚𝑝𝑜 𝑡𝑜𝑟𝑛𝑎𝑑𝑜𝑠 𝑠𝑒𝑛𝑠𝑖́𝑣𝑒𝑖𝑠 𝑎𝑜 𝑐𝑜𝑟𝑎𝑐̧𝑎̃𝑜...`]
+					const frase = frases[Math.floor(Math.random() * frases.length)] 
+						teks = `*Hmmm.... Eu Shipo eles 2💘💘*\n\n[ 💞> ] @${teupai11.jid.split('@')[0]}\n\n  Junto com esse:\n\n[ 💞> ] @${teupai21.jid.split('@')[0]}\n\n[ 💖 ] - Chance de dar certo: ${shipted}\n\n[ 💫 ] - ${frase}`
+						membr.push(teupai11.jid)
+						membr.push(teupai21.jid)
+						mentions(teks, membr, true)
+					break */
+					case 'playstore':
+                ps = `${body.slice(11)}`
+                  anu = await fetchJson(`https://docs-jojo.herokuapp.com/api/playstore?q=${ps}`, {method: 'get'})
+                  store = '======================\n'
+                  for (let ply of anu.result){
+                  store += `• *Nome Apk:* ${ply.app.name}\n• *ID:* ${ply.app.id}\n• *Link Apk:* ${ply.app.url}\n===================°]\n`
+                  }
+                  reply(store.trim())
+                  break
+               case 'pornhub':
+			   reply(mess.wait)
+              	    if (args.length < 1) return reply('Cadê o texto, mano?')
+                    teks = body.slice(9)
+                    anu = await fetchJson(`https://api.arugaz.my.id/api/media/pornhub/search?query=${teks}`, {method: 'get'})
+                    teks = `===============\n`
+                    for (let bokep of anu.result) {
+                    teks += `Título: ${bokep.title}\nAtor: ${bokep.author}\nVisualizadores: *${bokep.views}*\nDuração: ${bokep.duration}\nLink: ${bokep.link}\n===============\n`
+                    }
+                    reply(teks.trim())
+			     	await limitAdd(sender) 
+			     	break  
+			case 'instaimg':
+				if (!isUrl(args[0]) && !args[0].includes('www.instagram.com')) return reply(mess.error.lv)
+				    anu = await fetchJson(`https://alfians-api.herokuapp.com/api/ig?url=${args[0]}`, {method: 'get'})
+				    insta = getBuffer(anu.result)
+				    reply(mess.wait)
+				    client.sendMessage(from, insta, image, {quoted: mek})
+				    await limitAdd(sender) 
+				    break  
+				case 'instavid':
+				if (!isUrl(args[0]) && !args[0].includes('www.instagram.com')) return reply(mess.error.lv)
+				    anu = await fetchJson(`https://alfians-api.herokuapp.com/api/ig?url=${args[0]}`, {method: 'get'})
+				    insta = getBuffer(anu.result)
+				    reply(mess.wait)
+				    client.sendMessage(from, insta, video, {mimtype: 'video/mp4', filename: 'instagram'.mp3, quoted: mek})
+				    await limitAdd(sender) 
+				    break  
+				    
+				case 'instastory':
+				if (args.length < 1) return reply('username??')
+				//if (isLimit(sender)) return reply(limitend(pushname2))
+				instor = `${body.slice(12)}`
+				anu = await fetchJson(`https://docs-jojo.herokuapp.com/api/igstory?username=${instor}`, {method: 'get'})
+				insta = '=========================\n'
+				for (let story of anu.result) {
+				insta += `• *Envio:* ${story.uploaded}\n• *Termina:* ${story.expired}\n• *Tamanho: ${story.filesize}\n• *Tipo:* ${story.type}\n• Link: ${story.url}\n=========================\n`
+				}
+				reply(insta.trim())
+				await limitAdd(sender)
+				break
+   case 'ocr':
+					if ((isMedia && !mek.message.videoMessage || isQuotedImage) && args.length == 0) {
+						const encmedia = isQuotedImage ? JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo : mek
+						const media = await client.downloadAndSaveMediaMessage(encmedia)
+						reply(mess.wait)
+						await recognize(media, {lang: 'eng+ind', oem: 1, psm: 3})
+							.then(teks => {
+								reply(teks.trim())
+								fs.unlinkSync(media)
+							})
+							.catch(err => {
+								reply(err.message)
+								fs.unlinkSync(media)
+							})
+					} else {
+						reply('marque uma foto mano ')
+					}
+					break
+            case 'sair':
+                    if (!isGroup) return reply(mess.only.group)
+                    if (isGroupAdmins || isOwner) {
+                    	client.groupLeave(from)
+                    } else {
+                        reply(mess.only.admin)
+                    }
+                    break
+         /*    case 'gtts':
+					if (args.length < 1) return client.sendMessage(from, 'qual codigo de linguagem?', text, {quoted: mek})
+					const gtts = require('./lib/gtts')(args[0])
+					if (args.length < 2) return client.sendMessage(from, 'Onde está o texto?', text, {quoted: mek})
+					dtt = body.slice(9)
+					ranm = getRandom('.mp3')
+					dtt.length > 600
+					? reply('O texto é muito grande')
+					: gtts.save(ranm, dtt, function() {
+						client.sendMessage(from, fs.readFileSync(ranm), audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+						fs.unlinkSync(ranm)
+					})
+					break*/
+				case 'memer':
+					meme = await fetchJson('https://kagchi-api.glitch.me/meme/memes', { method: 'get' })
+					buffer = await getBuffer(`https://imgur.com/${meme.hash}.jpg`)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: '.......'})
+					break
+     /* case 'ml':
+				if (args.length < 1) return reply('qual heroi seu lixo??')
+				instor = `${body.slice(4)}`
+				heroi = await fetchJson(`https://docs-jojo.herokuapp.com/api/heroml?hero=${instor}`, {method: 'get'})
+				
+				hroi = '=========================\n'
+				for (let hr of heroi.result) {
+				hroi += `• *nome:* ${hr.hero.name}\n• *Categoria:* ${hr.hero.role}\n• *Frases: ${hr.hero.quotes}\n• *Atributos:* ${hr.hero.attributes}\n• especialista: ${hr.hero.speciality}\n=========================\n`
+				}
+				reply(hroi.trim())
+				//client.sendMessage(from, insta, imagem, {mimtype: 'image/png', filename: `${instor}.mp3, quoted: mek})
+				await limitAdd(sender)
+				break*/
+				case 'ml':
+				heroes = `${body.slice(4)}`
+				//static async getAnddress (`${heroe}`)
+				  const response = (await axios.get(`https://docs-jojo.herokuapp.com/api/heroml?hero=${heroes}`)).result;
+				
+			   client.sendMessage(from,response) 
+				 
+				
+				break
+					case 'circlesticker':
+    //const pack = arg.split('|')[0]
+//    const author = arg.split('|')[1]
+    if (isMedia && mimetype == 'image/jpeg') {
+      await createExif(pack,author)
+      await sleep(5000)
+      decryptMedia(message).then(mediaData => {
+        sharp(mediaData).resize({
+          width: 512,
+          height: 512,
+          fit: sharp.fit.contain,
+          background: {
+            r: 0,
+            g: 0,
+            b: 0,
+            alpha: 0
+          }
+        }).webp().toBuffer().then(buffer => {
+          modifExif(buffer, id, (res) => {
+            mediaData = res.toString('base64')
+            sqlter.sendRawWebpAsSticker(from, mediaData)
+          })
+        })
+      })
+    } else if (quotedMsg && quotedMsgObj.mimetype == 'image/jpeg') {
+      await createExif(pack, author)
+      await sleep(5000)
+      decryptMedia(quotedMsg).then(mediaData => {
+        sharp(mediaData).resize({
+          width: 512,
+          height: 512,
+          fit: sharp.fit.contain,
+          background: {
+            r: 0,
+            g: 0,
+            b: 0,
+            alpha: 0
+          }
+        }).webp().toBuffer().then(buffer => {
+          modifExif(buffer, id, (res) => {
+            mediaData = res.toString('base64')
+            client.sendRawWebpAsSticker(from, mediaData)
+          })
+        })
+      })
+    } else if (isMedia && mimetype == 'image/gif') {
+      const shape = "circle"
+      const type = "gif"
+      const mediaData = await decryptMedia(message);
+      await convertSticker(shape, author, pack, mediaData, type, from).then((res) => client.sendRawWebpAsSticker(from, res.toString("base64")))
+    } else if (quotedMsg && quotedMsgObj.mimetype == 'image/gif') {
+      const shape = "circle"
+      const type = "gif"
+      const mediaData = await decryptMedia(quotedMsg);
+      await convertSticker(shape, author, pack, mediaData, type, from).then((res) => client.sendRawWebpAsSticker(from, res.toString("base64")))
+    } else if (isMedia && mimetype == 'video/mp4') {
+      const shape = "circle"
+      const type = "mp4"
+      const mediaData = await decryptMedia(message);
+      await convertSticker(shape, author, pack, mediaData, type, from).then((res) => client.sendRawWebpAsSticker(from, res.toString("base64")))
+    } else if (quotedMsg && quotedMsgObj.mimetype == 'video/mp4') {
+      const shape = "circle"
+      const type = "mp4"
+      const mediaData = await decryptMedia(quotedMsg);
+      await convertSticker(shape, author, pack, mediaData, type, from).then((res) => client.sendRawWebpAsSticker(from, res.toString("base64")))
+    }
+    break
+
                 case 'darkjokes':
 				 data = fs.readFileSync('./src/darkjokes.js');
                  jsonData = JSON.parse(data);
@@ -4319,14 +4766,7 @@ case 'tapa':
                 hasil = await getBuffer(randKey.result)
                 sendImage(hasil, mek, '*alerta :V*')
 				break									
-         case 'moddroid':
-			data = await fetchJson(`https://tobz-api.herokuapp.com/api/moddroid?q=${body.slice(10)}&apikey=${TobzApi}`)
-			hepi = data.result[0] 
-			teks = `*Nome*: ${data.result[0].title}\n*editor*: ${hepi.publisher}\n*mod info:* ${hepi.mod_info}\n*Tamanho*: ${hepi.size}\n*última versão*: ${hepi.latest_version}\n*gênero*: ${hepi.genre}\n*link:* ${hepi.link}\n*download*: ${hepi.download}`
-			buffer = await getBuffer(hepi.image)
-			client.sendMessage(from, buffer, image, {quoted: mek, caption: `${teks}`})
-			await limitAdd(sender)
-			break
+
 		case 'happymod':
 			data = await fetchJson(`https://tobz-api.herokuapp.com/api/happymod?q=${body.slice(10)}&apikey=${TobzApi}`)
 			hupo = data.result[0] 
@@ -5031,7 +5471,7 @@ break
 				case 'delete':
 					if (!isGroup) return reply(mess.only.group)
 					if (!isGroupAdmins) return reply(mess.only.admin)
-					if (!isBotGroupAdmins) return reply(mess.only.Badmin)
+					//if (!isBotGroupAdmins) return reply(mess.only.Badmin)
 					if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('marque a msg para apagar *seja um administrador!*')
 					mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid
 					if (mentioned.length > 1) {
@@ -5587,9 +6027,9 @@ break
                 anu = await fetchJson(`https://api.zeks.xyz/api/ytplaymp3?q=${play}&apikey=apivinz`)
                if (anu.error) return reply(anu.error)
                  infomp3 = `*CanÃ§Ã£o encontrada!!!*\nJudul : ${anu.result.title}\nFonte : ${anu.result.source}\nTamanho : ${anu.result.size}\n\n*ESPERE ENVIANDO POR FAVOR, NÃƒO SPAM YA PAI*`
-                buffer = await getBuffer(anu.result.thumbnail)
-                lagu = await getBuffer(anu.result.url_audio)
-                client.sendMessage(from, buffer, image, {quoted: mek, caption: infomp3})
+                buffer3 = await getBuffer3(anu.result.thumbnail)
+                lagu = await getBuffer3(anu.result.url_audio)
+                client.sendMessage(from, buffer3, image, {quoted: mek, caption: infomp3})
                 client.sendMessage(from, lagu, audio, {mimetype: 'audio/mp4', filename: `${anu.title}.mp3`, quoted: mek})
                 break
           case 'stickertele':
@@ -7877,7 +8317,7 @@ case 'gay':
   mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid
   frhan.updatePresence(from, Presence.composing)
   random = gay[Math.floor(Math.random() * (gay.length))]
-  hasil = `🖤😏 *¡𝐌𝐄𝐃𝐈𝐃𝐎𝐑 𝐃𝐄 𝐌𝐀𝐋𝐃𝐈𝐓𝐎𝐒 𝐆𝐀𝐘𝐒!* 😏🖤\n\n😳 *@${mentioned[0].split('@')[0]}*, *¡𝑯𝒆𝒎𝒐𝒔 𝒎𝒆𝒅𝒊𝒅𝒐 𝒕𝒖 𝒏𝒊𝒗𝒆𝒍 𝒅𝒆 𝑴𝒂𝒓??𝒄𝒐𝒏 𝒑𝒆𝒓𝒅𝒊𝒅𝒐 𝒚 𝒉𝒂𝒔 𝒅𝒂𝒅𝒐 𝒖𝒏*  *"${random}"*  *𝒆𝒏 𝒔𝒆𝒓 𝒖??𝒂 𝑴𝒂𝒓𝒊𝒄𝒐𝒏 𝒅𝒆 𝒎𝒊𝒆𝒓𝒅?? 𝒎𝒂𝒔 𝒆𝒏 𝒆𝒍 𝑮𝒓𝒖𝒑𝒐!* 😳*\n\n*@${mentioned[0].split('@')[0]}*\n🖤😳 *¡𝐌𝐀𝐋𝐃𝐈𝐓𝐎 𝐌𝐀𝐑𝐈𝐂𝐎𝐍 𝐃𝐄 𝐌𝐈𝐄𝐑𝐃𝐀!* 😳🖤` //${body.slice(8)}
+  hasil = `🖤😏 *¡𝐌𝐄𝐃𝐈𝐃𝐎𝐑 𝐃𝐄 𝐌𝐀𝐋𝐃𝐈𝐓𝐎𝐒 𝐆𝐀𝐘𝐒!* 😏🖤\n\n😳 *@${mentioned[0].split('@')[0]}*, *¡𝑯𝒆𝒎𝒐𝒔 𝒎𝒆𝒅𝒊??𝒐 𝒕𝒖 𝒏𝒊𝒗𝒆𝒍 𝒅𝒆 𝑴𝒂𝒓??𝒄𝒐𝒏 𝒑𝒆𝒓𝒅𝒊𝒅𝒐 𝒚 𝒉𝒂𝒔 𝒅𝒂𝒅𝒐 𝒖𝒏*  *"${random}"*  *𝒆𝒏 𝒔𝒆𝒓 𝒖??𝒂 𝑴𝒂𝒓𝒊𝒄𝒐𝒏 𝒅𝒆 𝒎𝒊𝒆𝒓𝒅?? 𝒎𝒂𝒔 𝒆𝒏 𝒆𝒍 𝑮𝒓𝒖𝒑𝒐!* 😳*\n\n*@${mentioned[0].split('@')[0]}*\n🖤😳 *¡𝐌𝐀𝐋𝐃𝐈𝐓𝐎 𝐌𝐀𝐑𝐈𝐂𝐎𝐍 𝐃𝐄 𝐌𝐈𝐄𝐑𝐃𝐀!* 😳🖤` //${body.slice(8)}
   mentions(hasil, mentioned)
   break
 
@@ -7907,7 +8347,7 @@ case 'zorra':
   mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid
   frhan.updatePresence(from, Presence.composing)
   medidorguarras = guarras[Math.floor(Math.random() * (guarras.length))]
-  hasil = `🤍😏 *¡𝐌𝐄𝐃𝐈𝐃𝐎𝐑 𝐃𝐄 𝐌𝐀𝐋𝐃𝐈𝐓𝐀𝐒 𝐆𝐔𝐀𝐑𝐑𝐀𝐒!* 😏🤍\n\n😳 *@${mentioned[0].split('@')[0]}*, *¡𝑯𝒆𝒎𝒐𝒔 𝒎𝒆𝒅𝒊𝒅𝒐 𝒕𝒖 𝒏𝒊𝒗𝒆𝒍 𝒅𝒆 𝑮𝒖𝒂𝒓𝒓𝒂 𝒂𝒔𝒒𝒖𝒆𝒓𝒐𝒔𝒂 𝒚 𝒉𝒂𝒔 𝒅𝒂𝒅𝒐 𝒖𝒏*  *"${medidorguarras}"*  *𝒆𝒏 𝒔𝒆𝒓 𝒖𝒏𝒂 𝑮𝒖𝒂𝒓𝒓𝒂 𝒅𝒆 𝒎𝒊𝒆𝒓𝒅𝒂 𝒎𝒂𝒔 𝒆𝒏 𝒆𝒍 𝑮𝒓𝒖𝒑𝒐!* 😳\n\n*@${mentioned[0].split('@')[0]}*\n🤍💋 *¡𝐌𝐀𝐋𝐃𝐈𝐓𝐀 𝐆𝐔𝐀𝐑𝐑𝐀 𝐃𝐄 𝐌𝐈𝐄𝐑𝐃𝐀!* 💋🤍` //${body.slice(8)}
+  hasil = `🤍😏 *¡𝐌𝐄𝐃𝐈𝐃𝐎𝐑 𝐃𝐄 𝐌𝐀𝐋𝐃𝐈𝐓𝐀?? 𝐆𝐔𝐀𝐑𝐑𝐀𝐒!* 😏🤍\n\n😳 *@${mentioned[0].split('@')[0]}*, *¡𝑯𝒆𝒎𝒐𝒔 𝒎𝒆𝒅𝒊𝒅𝒐 𝒕𝒖 𝒏𝒊𝒗𝒆𝒍 𝒅𝒆 𝑮𝒖𝒂𝒓𝒓𝒂 𝒂𝒔𝒒𝒖𝒆𝒓𝒐𝒔𝒂 𝒚 𝒉𝒂𝒔 𝒅𝒂𝒅𝒐 𝒖𝒏*  *"${medidorguarras}"*  *𝒆𝒏 𝒔𝒆𝒓 𝒖𝒏𝒂 𝑮𝒖𝒂𝒓𝒓𝒂 𝒅𝒆 𝒎𝒊𝒆𝒓𝒅𝒂 𝒎𝒂𝒔 𝒆𝒏 𝒆𝒍 𝑮𝒓𝒖𝒑𝒐!* 😳\n\n*@${mentioned[0].split('@')[0]}*\n🤍💋 *¡𝐌𝐀𝐋𝐃𝐈𝐓𝐀 𝐆𝐔𝐀𝐑𝐑𝐀 𝐃𝐄 𝐌𝐈𝐄𝐑𝐃𝐀!* 💋🤍` //${body.slice(8)}
   mentions(hasil, mentioned)
   break
 
@@ -8250,7 +8690,7 @@ break
                                          
                                              break
 
-case 'antidelete':
+/*case 'antidelete':
 				const dataRevoke = JSON.parse(fs.readFileSync('./src/gc-revoked.json'))
 				const dataCtRevoke = JSON.parse(fs.readFileSync('./src/ct-revoked.json'))
 				const dataBanCtRevoke = JSON.parse(fs.readFileSync('./src/ct-revoked-banlist.json'))
@@ -8301,7 +8741,7 @@ case 'antidelete':
 						client.sendMessage(from, `Untuk grup penggunaan *${prefix}antidelete mati*`, MessageType.text)
 					}
 				}
-				break
+				break */
 case 'hidetag':
                 client.updatePresence(from, Presence.composing) 
                 if (!isAznav) return reply(mess.only.aznav)

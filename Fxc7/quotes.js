@@ -1,1226 +1,1229 @@
-[
-  {
-    "author": "A. France",
-    "quotes": "Lebih baik mengerti sedikit daripada salah mengerti."
-  },
-  {
-    "author": "Abraham Lincoln",
-    "quotes": "Hampir semua pria memang mampu bertahan menghadapi kesulitan. Namun, jika Anda ingin menguji karakter sejati pria, beri dia kekuasaan."
-  },
-  {
-    "author": "Aeschylus",
-    "quotes": "Bila tekad seseorang kuat dan teguh, Tuhan akan bergabung dalam usahanya."
-  },
-  {
-    "author": "Aesop",
-    "quotes": "Penderitaan adalah pelajaran."
-  },
-  {
-    "author": "Albert Einstein",
-    "quotes": "Ilmu pengetahuan tanpa agama adalah pincang."
-  },
-  {
-    "author": "Albert Einstein",
-    "quotes": "Hidup itu seperti sebuah sepeda, agar tetap seimbang kita harus tetap bergerak."
-  },
-  {
-    "author": "Albert Einstein",
-    "quotes": "Perbedaan masa lalu, sekarang, dan masa depan tak lebih dari ilusi yang keras kepala."
-  },
-  {
-    "author": "Albert Einstein",
-    "quotes": "Sebuah meja, sebuah kursi, semangkuk buah, dan sebuah biola; apa lagi yang dibutuhkan agar seseorang bisa merasa bahagia?."
-  },
-  {
-    "author": "Albert Enstein",
-    "quotes": "Belas kasihanlah terhadap sesama, bersikap keraslah terhadap diri sendiri."
-  },
-  {
-    "author": "Alex Osborn",
-    "quotes": "Cara paling baik untuk menggerakkan diri Anda ialah memberi tugas kepada diri sendiri."
-  },
-  {
-    "author": "Alexander A. Bogomoletz",
-    "quotes": "Kita tidak boleh kehilangan semangat. Semangat adalah stimulan terkuat untuk mencintai, berkreasi dan berkeinginan untuk hidup lebih lama."
-  },
-  {
-    "author": "Alexander Solzhenitsyn",
-    "quotes": "Manusia akan bahagia selama ia memilih untuk bahagia."
-  },
-  {
-    "author": "Ali Javan",
-    "quotes": "Saya tidak berharap menjadi segalanya bagi setiap orang. Saya hanya ingin menjadi sesuatu untuk seseorang."
-  },
-  {
-    "author": "Ali bin Abi Thalib",
-    "quotes": "Apabila sempurna akal seseorang, maka sedikit perkataannya."
-  },
-  {
-    "author": "Ali bin Abi Thalib",
-    "quotes": "Bahagialah orang yang dapat menjadi tuan untuk dirinya, menjadi kusir untuk nafsunya dan menjadi kapten untuk bahtera hidupnya."
-  },
-  {
-    "author": "Ali bin Abi Thalib",
-    "quotes": "Sahabat yang jujur lebih besar harganya daripada harta benda yang diwarisi dari nenek moyang."
-  },
-  {
-    "author": "Anne M. Lindbergh",
-    "quotes": "Yang palin melelahkan dalam hidup adalah menjadi orang yang tidak tulus."
-  },
-  {
-    "author": "Anonim",
-    "quotes": "Terbuka untuk Anda, begitulah Tuhan memberi kita jalan untuk berusaha. Jangan pernah berfikir jalan sudah tertutup."
-  },
-  {
-    "author": "Anonim",
-    "quotes": "Penundaan adalah kuburan dimana peluang dikuburkan."
-  },
-  {
-    "author": "Antonie De Saint",
-    "quotes": "Cinta bukan saling menatap mata, namun melihat ke arah yang sama bersama-sama."
-  },
-  {
-    "author": "Aristoteles",
-    "quotes": "Kita adalah apa yang kita kerjakan berulang kali. Dengan demikian, kecemerlangan bukan tindakan, tetapi kebiasaan."
-  },
-  {
-    "author": "Arnold Glasow",
-    "quotes": "Jangan pernah mencoba menjadikan putra atau putri Anda menjadi seperti Anda. Diri Anda hanya cukup satu saja."
-  },
-  {
-    "author": "Art Buchwald",
-    "quotes": "Jika Anda bisa membuat orang lain tertawa, maka Anda akan mendapatkan semua cinta yang Anda inginkan."
-  },
-  {
-    "author": "Artemus Ward",
-    "quotes": "Masalah akan datang cepat atau lambat. Jika masalah datang, sambut dengan sebaik mungkin. Semakin ramah Anda menyapanya, semakin cepat ia pergi."
-  },
-  {
-    "author": "Ashleigh Brilliant",
-    "quotes": "Kita tak bisa melakukan apapun untuk mengubah masa lalu. Tapi apapun yang kita lakukan bisa mengubah masa depan."
-  },
-  {
-    "author": "Augustine",
-    "quotes": "Kesabaran adalah teman dari kebijaksanaan."
-  },
-  {
-    "author": "Ayn Rand",
-    "quotes": "Orang-orang kreatif termotivasi oleh keinginan untuk maju, bukan oleh keinginan untuk mengalahkan orang lain."
-  },
-  {
-    "author": "B. J. Habibie",
-    "quotes": "Dimanapun engkau berada selalulah menjadi yang terbaik dan berikan yang terbaik dari yang bisa kita berikan."
-  },
-  {
-    "author": "Balzac",
-    "quotes": "Kebencian seperti halnya cinta, berkobar karena hal-hal kecil."
-  },
-  {
-    "author": "Barbara Sher",
-    "quotes": "Anda tidak perlu harus berhasil pada kali pertama."
-  },
-  {
-    "author": "Beecher",
-    "quotes": "Satu jam yang intensif, jauh lebih baik dan menguntungkan daripada bertahun-tahun bermimpi dan merenung-renung."
-  },
-  {
-    "author": "Benjamin Disraeli",
-    "quotes": "Hal terbaik yang bisa Anda lakukan untuk orang lain bukanlah membagikan kekayaan Anda, tetapi membantu dia untuk memiliki kekayaannya sendiri."
-  },
-  {
-    "author": "Bill Clinton",
-    "quotes": "Tidak ada jaminan keberhasilan, tetapi tidak berusaha adalah jaminan kegagalan."
-  },
-  {
-    "author": "Bill Cosby",
-    "quotes": "Aku tidak tahu kunci sukses itu apa, tapi kunci menuju kegagalan adalah mencoba membuat semua orang senang."
-  },
-  {
-    "author": "Bill Gates",
-    "quotes": "Konsumen yang paling tidak puas adalah sumber berharga untuk belajar."
-  },
-  {
-    "author": "Bill Mccartney",
-    "quotes": "Kita ada disini bukan untuk saling bersaing. Kita ada disini untuk saling melengkapi."
-  },
-  {
-    "author": "Brian Koslow",
-    "quotes": "Semakin kita bersedia bertanggung jawab atas perbuatan-perbuatan kita, semakin banyak kredibilitas yang kita miliki."
-  },
-  {
-    "author": "Browning",
-    "quotes": "Selalu baik untuk memaafkan, tapi yang paling baik adalah melupakan sebuah kesalahan."
-  },
-  {
-    "author": "Bruce Lee",
-    "quotes": "Jangan menjadi pohon kaku yang mudah patah. Jadilah bambu yang mampu bertahan melengkung melawan terpaan angin."
-  },
-  {
-    "author": "Budha Gautama",
-    "quotes": "Jangan menangis karena kegagalan cinta, sebab manusia akan meninggalkan semua yang dicintainya."
-  },
-  {
-    "author": "Bunda Teresa",
-    "quotes": "Jika Anda mengadili orang lain, Anda tak punya waktu untuk mencintai mereka."
-  },
-  {
-    "author": "Bunda Teresa",
-    "quotes": "Jika tidak ada perdamaian, hal itu disebabkan kita telah lupa bahwa kita saling membutuhkan."
-  },
-  {
-    "author": "Bung Hatta",
-    "quotes": "Kurang cerdas dapat diperbaiki dengan belajar, kurang cekatan dapat diperbaiki dengan pengalaman, kurang jujur sulit memperbaikinya."
-  },
-  {
-    "author": "Burn",
-    "quotes": "Banyak orang sukses berkat banyaknya kesulitan dan kesukaran yang mesti dihadapi."
-  },
-  {
-    "author": "Carol Burnet",
-    "quotes": "Hanya aku yang bisa merubah hidupku, tak ada seorang pun yang dapat melakukannya untukku."
-  },
-  {
-    "author": "Charles Darwin",
-    "quotes": "Yang bisa bertahan hidup bukan spesies yang paling kuat. Bukan juga spesies yang paling cerdas. Tapi spesies yang paling responsif terhadap perubahan."
-  },
-  {
-    "author": "Charles R. Swindoll",
-    "quotes": "Hidup adalah 10 persen yang terjadi kepada Anda, 90 persen bagaimana cara Anda menyikapinya."
-  },
-  {
-    "author": "Ching Hai",
-    "quotes": "Memperbaiki diri kita adalah memperbaiki dunia."
-  },
-  {
-    "author": "Ching Hai",
-    "quotes": "Jangan membeda-bedakan pekerjaan mana yang baik dan mana yang buruk. Masalah muncul jika kita membeda-bedakan dan memihak sesuatu."
-  },
-  {
-    "author": "Ching Hai",
-    "quotes": "Kita bekerja harus tanpa pamrih. Itu berlaku untuk segala pekerjaan. Pengabdian tanpa syarat adalah yang terbaik."
-  },
-  {
-    "author": "Ching Hai",
-    "quotes": "Kita harus menemukan kekuatan cinta dalam diri kita terlebih dahulu, barulah kita dapat benar-benar mencintai orang lain."
-  },
-  {
-    "author": "Ching Hai",
-    "quotes": "Carilah uang secukupnya saja untuk membiayai kehidupan, agar dapat menyisihkan waktu dan tenaga untuk melatih spiritual."
-  },
-  {
-    "author": "Christopher Colombus",
-    "quotes": "Harta benda tak membuat seseorang menjadi kaya raya, mereka hanya membuatnya lebih sibuk."
-  },
-  {
-    "author": "Cicero",
-    "quotes": "Hati yang penuh syukur, bukan saja merupakan kebajikan terbesar, melainkan induk dari segala kebajikan yang lain."
-  },
-  {
-    "author": "Cicero",
-    "quotes": "Hati yang penuh syukur, bukan saja merupakan kebajikan terbesar, melainkan juga induk dari segala kebajikan yang lain."
-  },
-  {
-    "author": "Clarence Darrow",
-    "quotes": "Kebebasan itu berasal dari manusia, tidak dari undang-undang atau institusi."
-  },
-  {
-    "author": "Confucius",
-    "quotes": "Hidup ini benar-benar sederhana, tapi kita malah bersikeras membuatnya menjadi rumit."
-  },
-  {
-    "author": "Confucius",
-    "quotes": "Kemana pun Anda pergi, pergilah dengan sepenuh hati."
-  },
-  {
-    "author": "Confucius",
-    "quotes": "Orang yang melakukan kesalahan dan tidak memperbaiki kesalahannya, melalakukan kesalahan yang lainnya."
-  },
-  {
-    "author": "Confucius",
-    "quotes": "Kebanggaan kita yang terbesar bukan karena tidak pernah gagal, tetapi bangkit kembali setiap kita jatuh."
-  },
-  {
-    "author": "Cowper",
-    "quotes": "Bunga yang tidak akan pernah layu dibumi adalah kebajikan."
-  },
-  {
-    "author": "Cynthia Ozick",
-    "quotes": "Untuk membayangkan hal yang tak dapat dibayangkan, dibutuhkan imajinasi yang luar biasa."
-  },
-  {
-    "author": "D. J. Schwartz",
-    "quotes": "Kesulitan apapun tidak tahan terhadap keuletan dan ketekunan. Tanpa keuletan, orang yang paling pintar dan paling berbakat sering gagal dalam hidupnya."
-  },
-  {
-    "author": "Dale Carnegie",
-    "quotes": "Satu-satunya cara agar kita memperoleh kasih sayang, adalah jangan menuntut agar kita dicintai, tetapi mulailah memberi kasih sayang kepada orang lain tanpa mengharapkan balasan."
-  },
-  {
-    "author": "Dale Carnegie",
-    "quotes": "Bila orang yang kuatir akan kekurangannya mau mensyukuri kekayaan yang mereka miliki, mereka akan berhenti kuatir."
-  },
-  {
-    "author": "Dale Carnegie",
-    "quotes": "Usahakan membentuk suatu hubungan \"kawat\" antara otak dan hati Anda."
-  },
-  {
-    "author": "Dale Carnegie",
-    "quotes": "Senyuman akan membuat kaya jiwa seseorang yang menerimanya, tanpa membuat miskin seseorang yang memberikannya."
-  },
-  {
-    "author": "Dale Carnegie",
-    "quotes": "Orang jarang sukses kecuali jika mereka senang dengan apa yang dikerjakannya."
-  },
-  {
-    "author": "David Livingston",
-    "quotes": "Saya akan pergi kemanapun selama itu arahnya ke depan."
-  },
-  {
-    "author": "David V. Ambrose",
-    "quotes": "Jika Anda punya kemauan untuk menang, Anda sudah mencapai separuh sukses. Jika Anda tidak punya kemauan untuk menang, Anda sudah mencapai separuh kegagalan."
-  },
-  {
-    "author": "David Weinbaum",
-    "quotes": "Rahasia menuju hidup kaya adalah mempunyai lebih banyak awal ketimbang akhir."
-  },
-  {
-    "author": "Desbarolles",
-    "quotes": "Kebenaran yang tidak dimengerti akan menjadi kesalahan."
-  },
-  {
-    "author": "Descrates",
-    "quotes": "Saya berpikir, karena itu saya ada."
-  },
-  {
-    "author": "Djamaludin Abassy",
-    "quotes": "Mental yang lemah lebih parah dari fisik yang lemah."
-  },
-  {
-    "author": "Donald Kendall",
-    "quotes": "Satu-satunya sukses yang diraih sebelum bekerja hanyalah ada di kamus saja."
-  },
-  {
-    "author": "Dr. Frank Crane",
-    "quotes": "Sahabat terbaik dan musuh terburuk kita adalah pikiran-pikiran kita. Pikiran dapat lebih baik dari seorang dokter atau seorang bankir atau seorang teman kepercayaan. Juga dapat lebih berbahaya dadi penjahat."
-  },
-  {
-    "author": "Dr. Ronald Niednagel",
-    "quotes": "Pergilah sejauh Anda bisa memandang, dan ketika Anda tiba disana, Anda akan memandang lebih jauh."
-  },
-  {
-    "author": "Dr.\u00a0Johnnetta Cole",
-    "quotes": "Jika kamu ingin pergi cepat, pergilah sendiri. Jika kamu ingin pergi jauh, pergilah bersama-sama."
-  },
-  {
-    "author": "Dwigt D. Esenhower",
-    "quotes": "Seorang intelektual tidak akan pernah mengatakan lebih daripada apa yang diketahuinya."
-  },
-  {
-    "author": "Earl Campbell",
-    "quotes": "Persoalan-persoalan adalah harga yang Anda bayar untuk kemajuan."
-  },
-  {
-    "author": "Earl Campbell",
-    "quotes": "Persoalan-persoalan adalah harga yang harus Anda bayar untuk kemajuan."
-  },
-  {
-    "author": "Edgar Alnsel",
-    "quotes": "Hidup manusia penuh dengan bahaya, tetapi disitulah letak daya tariknya."
-  },
-  {
-    "author": "Edmund Burke",
-    "quotes": "Anda tidak dapat merencanakan masa yang akan datang berdasarkan masa lalu."
-  },
-  {
-    "author": "Edward L. Curtis",
-    "quotes": "Optimisme yang tidak disertai dengan usaha hanya merupakan pemikiran semata yang tidak menghasilkan buah."
-  },
-  {
-    "author": "Edward de Bono",
-    "quotes": "Jika Anda termasuk orang yang senang menunggu datangnya peluang, Anda adalah bagian dari manusia pada umumnya."
-  },
-  {
-    "author": "Edy Murphy",
-    "quotes": "Aku menghabiskan usia 30-an untuk memperbaiki segala kesalahanku di usia 20-an."
-  },
-  {
-    "author": "Einstein",
-    "quotes": "Berusaha untuk tidak menjadi manusia yang berhasil tapi berusahalah menjadi manusia yang berguna."
-  },
-  {
-    "author": "Eisenhower",
-    "quotes": "Mulai sekarang kita tidak usah membuang-buang waktu barang semenit pun untuk memikirkan orang-orang yang tidak kita sukai."
-  },
-  {
-    "author": "Elanor Roosevelt",
-    "quotes": "Ketika kita berhenti membuat kontribusi, kita mulai mati."
-  },
-  {
-    "author": "Elbert Hubbad",
-    "quotes": "Kesalahan terbesar yang dibuat manusia dalam kehidupannya adalah terus-menerus merasa takut bahwa mereka akan melakukan kesalahan."
-  },
-  {
-    "author": "Elizabeth Browning",
-    "quotes": "Janganlah menyebut orang tidak bahagia sebelum dia mati. Jangan menilai pekerjaan seseorang sebelum pekerjaannya berakhir."
-  },
-  {
-    "author": "Emerson",
-    "quotes": "Percaya pada diri sendiri adalah rahasia utama mencapai sukses."
-  },
-  {
-    "author": "Engelbert Huperdinck",
-    "quotes": "Anda harus waspada dengan kesenangan. Pastikan bahwa Anda menikmatinya dan bukan dikendalikannya."
-  },
-  {
-    "author": "Erich Watson",
-    "quotes": "Kehilangan kekayaan masih dapat dicari kembali, kehilangan kepercayaan sulit didapatkan kembali."
-  },
-  {
-    "author": "Francois De La Roche",
-    "quotes": "Bila tidak mampu menemukan kedamaian dalam diri sendiri, tak ada gunanya mencari di tempat lain."
-  },
-  {
-    "author": "Francois De La Roche",
-    "quotes": "Kita terbiasa menyembunyikan diri dari orang lain, sampai akhirnya kita sendiri tersembunyi dari diri kita."
-  },
-  {
-    "author": "Francois Roche",
-    "quotes": "Kita lebih sibuk menyakinkan orang lain bahwa kita bahagia ketimbang benar-benar merasakan bahagia itu sendiri."
-  },
-  {
-    "author": "Frank Crane",
-    "quotes": "Anda mungkin ditipu jika terlalu mempercayai, tetapi hidup Anda akan tersiksa jika tidak cukup mempercayai."
-  },
-  {
-    "author": "Frank Giblin",
-    "quotes": "Jadilah diri Anda sendiri. Siapa lagi yang bisa melakukannya lebih baik ketimbang diri Anda sendiri?."
-  },
-  {
-    "author": "Franklin",
-    "quotes": "Bila Anda ingin dicintai, cintailah dan bersikaplah sebagai orang yang patut dicintai."
-  },
-  {
-    "author": "Fuller",
-    "quotes": "Contoh yang baik adalah nasihat terbaik."
-  },
-  {
-    "author": "Galileo Galilei",
-    "quotes": "Rumput yang paling kuat tumbuhnya terdapat di atas tanah yang paling keras."
-  },
-  {
-    "author": "Galileo Galilei",
-    "quotes": "Kamu tidak dapat mengajari seseorang apa pun, kamu hanya bisa membantunyanya menemukan apa yang ada dalam dirinya sendiri."
-  },
-  {
-    "author": "Gandhi",
-    "quotes": "Mereka yang berjiwa lemah tak akan mampu memberi seuntai maaf tulus. Pemaaf sejati hanya melekat bagi mereka yang berjiwa tangguh."
-  },
-  {
-    "author": "Gandhi",
-    "quotes": "Kebahagiaan tergantung pada apa yang dapat Anda berikan, bukan pada apa yang Anda peroleh."
-  },
-  {
-    "author": "Gen Collin Powel",
-    "quotes": "Tak ada rahasia untuk menggapai sukses. Sukses itu dapat terjadi karena persiapan, kerja keras dan mau belajar dari kegagalan."
-  },
-  {
-    "author": "George B. Shaw",
-    "quotes": "Hidup bukanlah tentang menemukan dirimu sendiri. Hidup adalah tentang menciptakan dirimu sendiri."
-  },
-  {
-    "author": "George III",
-    "quotes": "Saya lebih baik kehilangan mahkota daripada melakukan tindakan yang menurut saya memalukan."
-  },
-  {
-    "author": "George Santayana",
-    "quotes": "Tidak ada obat untuk kelahiran dan kematian, kecuali menikmati yang ada di antara keduanya."
-  },
-  {
-    "author": "George W.",
-    "quotes": "Harapan tak pernah meninggalkan kita, kita yang meninggalkan harapan."
-  },
-  {
-    "author": "Gilbert Chesterton",
-    "quotes": "Agar bisa menjadi cukup cerdas untuk meraih semua uang yang diinginkan, kita harus cukup bodoh untuk menginginkannya."
-  },
-  {
-    "author": "Gothe",
-    "quotes": "Semua pengetahuan yang kumiliki bisa orang lain peroleh, tapi hatiku hanyalah untuk diriku sendiri."
-  },
-  {
-    "author": "H. N. Spieghel",
-    "quotes": "Betapapun tingginya burung terbang, toh dia harus mencari dan mendapatkan makanannya di bumi juga."
-  },
-  {
-    "author": "H.L Hunt",
-    "quotes": "Tetapkan apa yang Anda inginkan. Putuskan Anda ingin menukarnya dengan apa. Tentukan prioritas dan laksanakan."
-  },
-  {
-    "author": "Hal Borland",
-    "quotes": "Melihat pohon, saya jadi mengerti tentang kesabaran. Memandang rumput, saya jadi menghargai ketekunan."
-  },
-  {
-    "author": "Hamka",
-    "quotes": "Kecantikan yang abadi terletak pada keelokan adab dan ketinggian ilmu seseorang, bukan terletak pada wajah dan pakaiannya."
-  },
-  {
-    "author": "Hamka",
-    "quotes": "Kita harus yakin bahwa apa yang ditentukan oleh Tuhan untuk kita, itulah yang terbaik."
-  },
-  {
-    "author": "Hamka",
-    "quotes": "Berani menegakkan keadilan, walaupun mengenai diri sendiri, adalah puncak segala keberanian."
-  },
-  {
-    "author": "Hamka",
-    "quotes": "Hawa nafsu membawa kesesatan dan tidak berpedoman. Sementara akal menjadi pedoman menuju keutamaan. Hawa nafsu menyuruhmu berangan-angan, tetapi akal menyuruhmu menimbang."
-  },
-  {
-    "author": "Harriet Braiker",
-    "quotes": "Berusaha berhasil untuk memotivasi dirimu, tapi berusaha untuk selalu sempurna akan membuat tertekan."
-  },
-  {
-    "author": "Helen Keller",
-    "quotes": "Kita tidak akan belajar berani dan sabar jika di dunia ini hanya ada kegembiraan."
-  },
-  {
-    "author": "Henri Ford",
-    "quotes": "Kegagalan hanyalah kesempatan untuk memulai lagi dengan lebih pandai."
-  },
-  {
-    "author": "Henry David Thoreau",
-    "quotes": "Kebaikan adalah satu-satunya investasi yang tidak akan merugikan."
-  },
-  {
-    "author": "Henry Ford",
-    "quotes": "Idealis adalah orang yang membantu orang lain untuk makmur."
-  },
-  {
-    "author": "Henry Ford",
-    "quotes": "Berpikir itu adalah pekerjaan yang berat di antara segala jenis pekerjaan. Itulah sebabnya sedikit sekali orang yang senang melakukannya."
-  },
-  {
-    "author": "Henry Ford",
-    "quotes": "Persaingan yang tujuannya hanya untuk bersaing, untuk mengalahkan orang lain, tak pernah mendatangkan banyak manfaat."
-  },
-  {
-    "author": "Henry Longfellow",
-    "quotes": "Kehidupan orang-orang besar mengingatkan kita bahwa kita bisa membuat kehidupan kita luhur."
-  },
-  {
-    "author": "Henry Thoreau",
-    "quotes": "Hidupku menjadi hiburanku dan tak hentinya memberikan kejutan. Hidupku bagaikan drama dengan begitu banyak babak tanpa adegan penutup."
-  },
-  {
-    "author": "Hubert Humprey",
-    "quotes": "Apa yang Anda lihat adalah apa yang Anda capai."
-  },
-  {
-    "author": "Imam Al-Ghazali",
-    "quotes": "Kebahagiaan terletak pada kemenangan memerangi hawa nafsu dan menahan keinginan yang berlebih-lebihan."
-  },
-  {
-    "author": "Imam Ghazali",
-    "quotes": "Caci maki dari seorang penjahat merupakan kehormatan bagi seorang yang jujur."
-  },
-  {
-    "author": "J.C.F von Schiller",
-    "quotes": "Orang yang terlalu banyak merenung akan meraih sedikit."
-  },
-  {
-    "author": "Jack Hyles",
-    "quotes": "Jangan gunakan orang-orang untuk membangun pekerjaan besar, gunakan pekerjaan Anda untuk membangun orang-orang besar."
-  },
-  {
-    "author": "Jackson Brown",
-    "quotes": "Kesalahaan terbesar yang mungkin Anda buat adalah mempercayai bahwa Anda bekerja untuk orang lain."
-  },
-  {
-    "author": "Jacques Audiberti",
-    "quotes": "Kepengecutan yang paling besar adalah ketika kita membuktikan kekuatan kita kepada kelemanan orang lain."
-  },
-  {
-    "author": "James Thurber",
-    "quotes": "Jangan lihat masa lalu dengan penyesalan, jangan pula lihat masa depan dengan ketakutan, tapi lihatlah sekitar Anda dengan penuh kesadaran."
-  },
-  {
-    "author": "Janet Erskine",
-    "quotes": "Jangan menunggu keadaan yang ideal. Jangan juga menunggu peluang-peluang terbaik. Keduanya tak akan pernah datang."
-  },
-  {
-    "author": "Jeff Goins",
-    "quotes": "Kebanyakan orang sukses yang saya kenal bukan orang yang sibuk, mereka orang yang focus."
-  },
-  {
-    "author": "Jerry West",
-    "quotes": "Anda tidak dapat melakukan banyak hal di hidup Anda, jika Anda hanya bekerja di hari-hari yang Anda rasakan baik."
-  },
-  {
-    "author": "Jim Rohn",
-    "quotes": "Tembok yang kita bangun untuk menghambat kesedihan, juga membuat kita tertutup dari kebahagiaan."
-  },
-  {
-    "author": "Jim Rohn",
-    "quotes": "Jika Anda tidak merancang hidup Anda sendiri, kemungkinan Anda akan menjalani rencana orang lain. Apa yang mereka rencanakan untuk Anda? Tidak banyak."
-  },
-  {
-    "author": "Jim Ryan",
-    "quotes": "Motivasi adalah sesuatu yang membuat Anda memulai. Kebiasaan adalah sesuatu yang membuat Anda melanjutkan."
-  },
-  {
-    "author": "Jimi Hendrix",
-    "quotes": "Ketika kekuatan akan cinta melebihi kecintaan akan kekuasaan, maka dunia pun menemukan kedamaian."
-  },
-  {
-    "author": "Jimmy Dean",
-    "quotes": "Aku tak bisa merubah arah angin, tapi aku bisa menyesuaikan layarku untuk tetap bisa mencapai tujuanku."
-  },
-  {
-    "author": "Joan Baez",
-    "quotes": "Kita tak bisa memilih bagaimana kita meninggal atau kapan. Kita hanya bisa memutuskan bagaimana kita hidup. Sekarang."
-  },
-  {
-    "author": "John B. Gough",
-    "quotes": "Jika Anda ingin sukses, Anda harus menciptakan peluang untuk diri sendiri."
-  },
-  {
-    "author": "John C. Maxwell",
-    "quotes": "Bekerja keras sekarang, merasakan hasilnya nanti; bermalas-malasan sekarang, merasakan akibatnya nanti."
-  },
-  {
-    "author": "John C. Maxwell",
-    "quotes": "Untuk menangani diri Anda sendiri, gunakan kepala Anda. Untuk menangani orang lain, gunakan hati Anda."
-  },
-  {
-    "author": "John C. Maxwell",
-    "quotes": "Bekerja keras sekarang, merasakannya nanti. Bermalas-malas sekarang, merasakan akibatnya nanti."
-  },
-  {
-    "author": "John Craig",
-    "quotes": "Tidak peduli seberapa banyak yang dapat Anda lakukan, tidak peduli seberapa menarik hati kepribadian Anda, Anda tidak dapat melangkah jauh jika Anda tidak dapat bekerja bersama orang lain."
-  },
-  {
-    "author": "John D. Rockefeller",
-    "quotes": "Orang termiskin adalah orang yang tidak mempunyai apa-apa kecuali uang."
-  },
-  {
-    "author": "John Gardne",
-    "quotes": "Jika kita melayani, maka hidup akan lebih berarti."
-  },
-  {
-    "author": "John Gray",
-    "quotes": "Sebenarnya semua kesulitan merupakan kesempatan bagi jiwa yang tumbuh."
-  },
-  {
-    "author": "John Manson",
-    "quotes": "Anda dilahirkan orisinal, jadi tidak perlu setengah mati meniru orang lain."
-  },
-  {
-    "author": "John Maxwell",
-    "quotes": "Seberapa jauh Anda gagal, tidak masalah, tetapi yang penting seberapa sering Anda bangkit kembali."
-  },
-  {
-    "author": "John Q. Adams",
-    "quotes": "Jika tindakan-tindakan Anda mengilhami orang lain untuk bermimpi lebih, belajar lebih, bekerja lebih, dan menjadi lebih baik, Anda adalah seorang pemimpin."
-  },
-  {
-    "author": "John Ruskin",
-    "quotes": "Saya yakin, ujian pertama bagi orang besar ialah kerendahan hati."
-  },
-  {
-    "author": "John Ruskin",
-    "quotes": "Penghargaan tertinggi untuk kerja keras seseorang bukanlah apa yang ia hasilkan, tapi bagaimana ia berkembang karenanya."
-  },
-  {
-    "author": "John Ruskin",
-    "quotes": "Penghargaan tertinggi untuk kerja keras seseorang bukanlah apa yang ia hasilkan, tetapi bagaimana ia berkembang karenanya."
-  },
-  {
-    "author": "John Wolfgang",
-    "quotes": "Perbuatan-perbuatan salah adalah biasa bagi manusia, tetapi perbuatan pura-pura itulah sebenarnya yang menimbulkan permusuhan dan pengkhianatan."
-  },
-  {
-    "author": "Joseph Addison",
-    "quotes": "Rahmat sering datang kepada kita dalam bentuk kesakitan, kehilangan dan kekecewaan; tetapi kalau kita sabar, kita segera akan melihat bentuk aslinya."
-  },
-  {
-    "author": "Julia Roberts",
-    "quotes": "Cinta sejati tidak datang kepadamu, tetapi harus datang dari dalam dirimu."
-  },
-  {
-    "author": "Junius",
-    "quotes": "Integritas seseorang diukur dengan tingkah lakunya bukan profesinya."
-  },
-  {
-    "author": "Kahlil Gibran",
-    "quotes": "Kita berdoa kalau kesusahan dan membutuhkan sesuatu, mestinya kita juga berdoa dalam kegembiraan besar dan saat rezeki melimpah."
-  },
-  {
-    "author": "Kahlil Gibran",
-    "quotes": "Untuk memahami hati dan pikiran seseorang, jangan lihat apa yang sudah dia capai, tapi lihat apa yang dia cita-citakan."
-  },
-  {
-    "author": "Keri Russel",
-    "quotes": "Kadang kala, justru keputusan kecil yang akan mampu merubah hidup kita selamanya."
-  },
-  {
-    "author": "Knute Rockne",
-    "quotes": "Apabila perjalanan menjadi sulit, orang ulet akan berjalan terus."
-  },
-  {
-    "author": "Kong Hu Cu",
-    "quotes": "Orang yang berbudi tinggi selalu berpedoman pada keadilan dan selalu berusaha menjalankan kewajiban."
-  },
-  {
-    "author": "Konrad Adenauer",
-    "quotes": "Kita semua hidup di bawah langit yang sama, tetapi tidak semua orang punya cakrawala yang sama."
-  },
-  {
-    "author": "Kung Fu-Tze",
-    "quotes": "Ia yang bijak akan merasa malu, jika kata-katanya lebih baik daripada tindakannya."
-  },
-  {
-    "author": "Lao Tzu",
-    "quotes": "Saat sadar bahwa kau tidak kekurangan suatu apa pun, seisi dunia menjadi milikku."
-  },
-  {
-    "author": "Lao Tzu",
-    "quotes": "Saat sadar bahwa kau tidak kekurangan suatu apa pun, seisi dunia menjadi milikmu."
-  },
-  {
-    "author": "Les Brown",
-    "quotes": "Terima tanggung jawab untuk diri Anda sendiri. Sadari bahwa hanya Anda sendiri, bukan orang lain, yang bisa membuat Anda pergi ke tempat yang Anda inginkan."
-  },
-  {
-    "author": "Louis Gittner",
-    "quotes": "Meski yang kita hadapi adalah jalan buntu, namun cinta akan membangun jalan layang di atasnya."
-  },
-  {
-    "author": "Louis Pasteur",
-    "quotes": "Tahukah Anda rahasia sukses saya dalam mencapai tujuan? Cuma keuletan, tak lebih dan tak kurang."
-  },
-  {
-    "author": "Mahatma Gandhi",
-    "quotes": "Kepuasan terletak pada usaha, bukan pada hasil. Berusaha dengan keras adalah kemenangan yang hakiki."
-  },
-  {
-    "author": "Marcel Ayme",
-    "quotes": "Kerendahan hati merupakan ruang tunggu bagi kesempurnaan."
-  },
-  {
-    "author": "Maria Sharapova",
-    "quotes": "Saya belajar banyak dari kekalahan. Dan kekalahan-kekalahan itu, membuat saya semakin tabah."
-  },
-  {
-    "author": "Mark Cuban",
-    "quotes": "Buatlah usaha Anda berhasil dengan satu-satunya cara: kerja keras!."
-  },
-  {
-    "author": "Mark Twain",
-    "quotes": "Kebaikan adalah bahasa yang dapat didengar si tuli dan bisa dilihat si buta."
-  },
-  {
-    "author": "Marsha Sinetar",
-    "quotes": "Lakukan apa yang Anda senangi, uang akan mengikuti."
-  },
-  {
-    "author": "Martin Luther King",
-    "quotes": "Tak ada waktu yang tidak tepat untuk melakukan sesuatu yang benar."
-  },
-  {
-    "author": "Mary McCarthy",
-    "quotes": "Kendatipun Anda berada di jalur yang tepat, Anda akan tetap terkejar jika hanya duduk-duduk saja disana."
-  },
-  {
-    "author": "Maxim Gorky",
-    "quotes": "Kebahagiaan selalu tampak kecil saat berada dalam genggaman. Tapi coba lepaskan dan Anda akan langsung tahu, betapa besar dan berhargannya kebahagiaan."
-  },
-  {
-    "author": "Mery Hemingway",
-    "quotes": "Latih diri Anda untuk tidak khawatir. Kekhawatiran tak pernah memperbaiki apa-apa."
-  },
-  {
-    "author": "Michael Drury",
-    "quotes": "Kematangan bukanlah suatu keadaan yang dicapai dengan usia. Dia merupakan perkembangan dari cinta, belajar, membaca dan berpikir hingga menghasilkan kemampuan."
-  },
-  {
-    "author": "Michael Pritchard",
-    "quotes": "Anda berhenti tertawa bukan karena bertambah tua. Sebaliknya Anda bertambah tua justru karena berhenti tertawa."
-  },
-  {
-    "author": "Miguel de Cervantes",
-    "quotes": "Pepatah adalah kalimat singkat berdasarkan pengalaman panjang."
-  },
-  {
-    "author": "Miguel de Unamuno",
-    "quotes": "Tidak dicintai orang lain memang menyedihkan, tapi lebih menyedihkan lagi kalau tidak bisa mencintai orang lain."
-  },
-  {
-    "author": "N. H. Casson",
-    "quotes": "Kemiskinan jiwa lebih mengerikan daripada kemiskinan jasmani atau materi."
-  },
-  {
-    "author": "Natalie Portman",
-    "quotes": "Anda belum bisa dibilang kaya sampai Anda memiliki sesuatu yang tidak dapat dibeli uang."
-  },
-  {
-    "author": "Nelson Mandela",
-    "quotes": "Pendidikan adalah senjata paling ampuh dimana kau dapat menggunakannya untuk merubah dunia."
-  },
-  {
-    "author": "Norman Peale",
-    "quotes": "Campakanlah jauh-jauh pikiran murung dan kesal itu, lalu bangkitkanlah."
-  },
-  {
-    "author": "Nunse",
-    "quotes": "Bukanlah yang kuat, tetapi yang uletlah yang menjadikan mereka manusia yang besar."
-  },
-  {
-    "author": "O. S. Marden",
-    "quotes": "Kemajuan adalah hasil dari memusatkan seluruh kekuatan jiwa dan pikiran pada cita-cita yang dituju."
-  },
-  {
-    "author": "Oliver W. Holmes",
-    "quotes": "Semakin lama kita hidup, semakin kita menemukan bahwa kita mirip dengan orang lain."
-  },
-  {
-    "author": "Oprah Winfrey",
-    "quotes": "Melakukan yang terbaik pada saat ini akan menempatkan Anda ke tempat terbaik pada saat berikutnya."
-  },
-  {
-    "author": "Oscar Wilde",
-    "quotes": "Jika seseorang menyatakan kebenaran, dia yakin; cepat atau lambat; akan mendapatkannya."
-  },
-  {
-    "author": "Pablo Picasso",
-    "quotes": "Bila semangat Anda menurun, lakukanlah sesuatu. Kalau Anda telah melakukan sesuatu keadaan tidak berubah, lakukanlah sesuatu yang berbeda."
-  },
-  {
-    "author": "Paul Galvin",
-    "quotes": "Jangan takut dengan kesalahan. Kebijaksanaan biasanya lahir dari kesalahan."
-  },
-  {
-    "author": "Paul Harvey",
-    "quotes": "Saya tidak pernah melihat suatu monumen didirikan bagi orang pesimis."
-  },
-  {
-    "author": "Pepatah Cina",
-    "quotes": "Beranilah menyadari kesalahan dan mulai lagi."
-  },
-  {
-    "author": "Pepatah Cina",
-    "quotes": "Benar jadi berani."
-  },
-  {
-    "author": "Pepatah Cina",
-    "quotes": "Orang yang bertanya, bodoh dalam 5 menit. Dan orang yang tidak bertanya akan tetap bodoh untuk selamanya."
-  },
-  {
-    "author": "Pepatah Cina",
-    "quotes": "Bila saya mendengar, saya akan lupa. Setelah melihat saya bisa mengerti. Dan setelah mengerjakan, barulah saya bisa memahami."
-  },
-  {
-    "author": "Pepatah Cina",
-    "quotes": "Orang yang tersenyum selalu lebih kuat dari orang yang marah."
-  },
-  {
-    "author": "Pepatah Cina",
-    "quotes": "Orang yang memindahkan gunung memulai dengan memindahkan batu-batu kecil."
-  },
-  {
-    "author": "Pepatah Inggris",
-    "quotes": "Orang yang mencari masalah akan selalu mendapatkannya."
-  },
-  {
-    "author": "Pepatah Inggriss",
-    "quotes": "Keterampilan dan keyakinan merupakan pasukan bersenjata yang tidak dapat dikalahkan."
-  },
-  {
-    "author": "Pepatah Jepang",
-    "quotes": "Sebatang anak panah mudah dipatahkan, tetapi tidak demikian dengan sepuluh anak panah yang disatukan."
-  },
-  {
-    "author": "Pepatah Jepang",
-    "quotes": "Visi tanpa aksi adalah mimpi di siang bolong. Aksi tanpa visi adalah mimpi buruk."
-  },
-  {
-    "author": "Pepatah Jerman",
-    "quotes": "Orang yang tak pernah mencicipi pahit tak akan tahu apa itu manis."
-  },
-  {
-    "author": "Pepatah Latin",
-    "quotes": "Dengan belajar Anda bisa mengajar. Dengan mengajar, Anda belajar."
-  },
-  {
-    "author": "Pepatah Persia",
-    "quotes": "Saya menangis karena tak punya sepatu, sampai saya melihat orang tak punya kaki."
-  },
-  {
-    "author": "Pepatah Roma",
-    "quotes": "Kesengsaraan menghasilkan ketekunan. Ketekunan menghasilkan watak, dan watak menghasilkan harapan."
-  },
-  {
-    "author": "Pepatah Skotlandia",
-    "quotes": "Bila kemauan siap, kaki menjadi ringan."
-  },
-  {
-    "author": "Pepatah Spanyol",
-    "quotes": "Mengenal diri sendiri adalah awal dari perbaikan diri."
-  },
-  {
-    "author": "Pepatah Tibet",
-    "quotes": "Jangan meremehkan raja yang picik, seperti halnya jangan meremehkan sungai yang kecil."
-  },
-  {
-    "author": "Pepatah Tibet",
-    "quotes": "Apabila seseorang mengajarkan sesuatu, dia sendiri harus melaksanakan ajaran itu."
-  },
-  {
-    "author": "Peter Sinclair",
-    "quotes": "Kehidupan yang hebat adalah kulminasi dari pemikiran-pemikiran hebat disertai dengan tindakan-tindakan hebat."
-  },
-  {
-    "author": "Phyllis Bottome",
-    "quotes": "Ada dua cara mengatasi kesulitan, Anda mengubah kesulitan-kesulitan atau Anda mengubah diri sendiri untuk mengatasinya."
-  },
-  {
-    "author": "Plato",
-    "quotes": "Orang bijak berbicara karena mereka mempunyai sesuatu untuk dikatakan, orang bodoh berbicara karena mereka ingin mengatakan sesuatu."
-  },
-  {
-    "author": "Plato",
-    "quotes": "Orang bijak berbicara karena ia memiliki sesuatu untuk dikatakan. Orang bodoh berbicara karena ia atau dia harus mengatakan sesuatu."
-  },
-  {
-    "author": "Plato",
-    "quotes": "Berbuat tidak adil lebih memalukan daripada menderita ketidakadilan."
-  },
-  {
-    "author": "Plato",
-    "quotes": "Siapa yang tidak bisa memimpin dirinya sendiri, tidak akan bisa memimpin orang."
-  },
-  {
-    "author": "Plautus",
-    "quotes": "Kesabaran adalah obat terbaik untuk semua masalah."
-  },
-  {
-    "author": "Plautus",
-    "quotes": "Jauh lebih mudah memulai secara baik daripada mengakhiri secara baik."
-  },
-  {
-    "author": "Pliny The Elder",
-    "quotes": "Harapan adalah tiang yang menyangga dunia."
-  },
-  {
-    "author": "R. A. Kartini",
-    "quotes": "Kemenangan gemilang tidak diperoleh dari medan pertempuran saja, tetapi sering diperoleh dari hati."
-  },
-  {
-    "author": "R. Browning",
-    "quotes": "kita jatuh untuk bangun, berhenti untuk berjalan, dan tidur untuk bangun."
-  },
-  {
-    "author": "R. W. Shephred",
-    "quotes": "Kamu harus menghadapi depresi, sama seperti kamu menghadapi seekor harimau."
-  },
-  {
-    "author": "R.H. Grant",
-    "quotes": "Jika Anda mempekerjakan orang-orang yang lebih pintar dari Anda, Anda membuktikan Anda lebih pintar dari mereka."
-  },
-  {
-    "author": "Rabbi Schachtel",
-    "quotes": "Kebahagiaan bukanlah memiliki apa yang kita inginkan, melainkan menginginkan apa yang kita miliki."
-  },
-  {
-    "author": "Ralph W. Emerson",
-    "quotes": "Satu ons aksi jauh lebih berharga daripada satu ton teori."
-  },
-  {
-    "author": "Ralph W. Emerson",
-    "quotes": "Seseorang itu sukses besar jika dia sadar, kegagalan-kegagalannya adalah persiapan untuk kemenangan-kemenangannya."
-  },
-  {
-    "author": "Ralph Waldo Emerson",
-    "quotes": "Kedamaian tidak terdapat di dunia luar, melainkan terdapat dalam jiwa manusia itu sendiri."
-  },
-  {
-    "author": "Ralph Waldo Emerson",
-    "quotes": "Percayalah kepada orang lain, dan mereka akan tulus kepada Anda. Perlakukan mereka seperti orang besar dan mereka akan memperlihatkan dirinya sebagai orang besar."
-  },
-  {
-    "author": "Rene Descartes",
-    "quotes": "Tidak cukup hanya punya otak yang baik. Yang penting adalah menggunakannya secara baik."
-  },
-  {
-    "author": "Richard Bach",
-    "quotes": "Tanyakan pada diri sendiri rahasia sukses. Dengarkan jawaban Anda, dan lakukan."
-  },
-  {
-    "author": "Richard C. Miller",
-    "quotes": "Jika rumput tetangga lebih hijau, bersyukurlah Anda masih bisa berpijak di tanah untuk melihatnya."
-  },
-  {
-    "author": "Robert Collier",
-    "quotes": "Kesempatan Anda untuk sukses di setiap kondisi selalu dapat diukur oleh seberapa besar kepercayaan Anda pada diri sendiri."
-  },
-  {
-    "author": "Robert F. Kennedy",
-    "quotes": "Kemajuan merupakan kata-kata merdu, tetapi perubahanlah penggerakknya dan perubahan mempunyai banyak musuh."
-  },
-  {
-    "author": "Robert Frost",
-    "quotes": "Dua jalan dipisahkan pohon, dan saya mengambil jalan yang jarang ditempuh orang. Dan itulah yang membuat perubahan."
-  },
-  {
-    "author": "Robert Frost",
-    "quotes": "Alasan mengapa kecemasan membunuh lebih banyak orang dibanding kerja adalah, lebih banyak orang cemas dibanding bekerja."
-  },
-  {
-    "author": "Robert G. Ingersoll",
-    "quotes": "Sedikit orang kaya yang memiliki harta. Kebanyakan harta yang memiliki mereka."
-  },
-  {
-    "author": "Robert Half",
-    "quotes": "Ketekunan bisa membuat yang tidak mungkin jadi mungkin, membuat kemungkinan jadi kemungkinan besar, dan kemungkinan besar menjadi pasti."
-  },
-  {
-    "author": "Robert S. Lynd",
-    "quotes": "Hanya ikan yang bodoh yang bisa dua kali kena pancing dengan umpan yang sama."
-  },
-  {
-    "author": "Robert Von Hartman",
-    "quotes": "Ambisi seperti air laut, semakin banyak orang meminumnya semakin orang menjadi haus."
-  },
-  {
-    "author": "Robinsori",
-    "quotes": "Cemas dan ketakutan adalah akibat kebodohan dan keraguan."
-  },
-  {
-    "author": "Romand Rolland",
-    "quotes": "Pahlawan adalah seseorang yang melakukan apa yang mampu dia lakukan."
-  },
-  {
-    "author": "Roosevelt",
-    "quotes": "Jika Anda ingin menjadi orang besar, janganlah suka beromong besar, kerjakanlah hal-hal yang kecil dahulu."
-  },
-  {
-    "author": "Ross Cooper",
-    "quotes": "Satu-satunya cara untuk mengubah hidup kita adalah dengan mengubah pikiran kita."
-  },
-  {
-    "author": "Ruth P. Freedman",
-    "quotes": "Perubahan terjadi ketika seseorang menjadi dirinya sendiri, bukan ketika ia mencoba menjadi orang lain."
-  },
-  {
-    "author": "Salanter Lipkin",
-    "quotes": "Perbaiki diri Anda, tetapi jangan jatuhkan orang lain."
-  },
-  {
-    "author": "Samuel Smiles",
-    "quotes": "Cara tercepat untuk menuntaskan banyak hal adalah dengan menyelesaikannya satu demi satu."
-  },
-  {
-    "author": "Satya Sai Baba",
-    "quotes": "Dua hal yang harus dilupakan, kebaikan yang telah kita lakukan kepada orang lain dan kesalahan orang lain kepada kita."
-  },
-  {
-    "author": "Scott Fitzgerald",
-    "quotes": "Ingatlah, jika Anda menutup mulut sebenarnya Anda telah melakukan pilihan."
-  },
-  {
-    "author": "Seneca",
-    "quotes": "Hati manusia tidak akan pernah tenteram sebelum berdamai dengan diri sendiri."
-  },
-  {
-    "author": "Seneca",
-    "quotes": "Hidup berarti berjuang. Hidup nikmat tanpa badai topan adalah laksana laut yang mati."
-  },
-  {
-    "author": "Shackespeare",
-    "quotes": "Kesedihan hanya bisa ditanggulangi oleh orang yang mengalaminya sendiri."
-  },
-  {
-    "author": "Shirley Briggs",
-    "quotes": "Beranikan diri untuk menjadi dirimu sendiri, karena kita bisa melakukan hal itu lebih baik daripada orang lain."
-  },
-  {
-    "author": "Soe Hok Gie",
-    "quotes": "Lebih baik diasingkan daripada menyerah kepada kemunafikan."
-  },
-  {
-    "author": "Soemantri Metodipuro",
-    "quotes": "Langkah pertama untuk memilih keyakinan pada diri sendiri adalah mengenal diri kita sendiri."
-  },
-  {
-    "author": "Sophocles",
-    "quotes": "Bila seseorang kehilangan segala sumber kebahagiaan, dia tidak lagi hidup, tapi mayat yang bernafas."
-  },
-  {
-    "author": "St. Jerome",
-    "quotes": "Baik, lebih baik, terbaik. Jangan pernah berhenti sampai baik menjadi lebih baik, dan lebih baik menjadi terbaik."
-  },
-  {
-    "author": "Stephen R. Covey",
-    "quotes": "Motivasi adalah api dari dalam. Jika orang lain mencoba menyalakannya untuk Anda, kemungkinan apinya hanya menyala sebentar."
-  },
-  {
-    "author": "Steve Jobs",
-    "quotes": "Saya bangga, baik pada hal yang tidak kami lakukan maupun pada hal yang kami lakukan."
-  },
-  {
-    "author": "Sujiwo Tejo",
-    "quotes": "Cinta tak perlu pengorbanan. Pada saat kau merasa berkorban, pada saat itu cintamu mulai pudar."
-  },
-  {
-    "author": "Sydney Harris",
-    "quotes": "Ancaman nyata sebenarnya bukan pada saat komputer mulai bisa berpikir seperti manusia, tetapi ketika manusia mulai berpikir seperti komputer."
-  },
-  {
-    "author": "Theodore Rosevelt",
-    "quotes": "Lakukan apa yang dapat Anda lakukan dengan apa yang Anda miliki dan tempat Anda berada."
-  },
-  {
-    "author": "Thomas Alva Edison",
-    "quotes": "Banyak kegagalan dalam ini dikarenakan orang-orang tidak menyadari betapa dekatnya mereka dengan keberhasilan saat mereka menyerah."
-  },
-  {
-    "author": "Thomas Carlyle",
-    "quotes": "Pergilah sejauh mungkin yang bisa Anda lihat dan Anda akan bisa melihat lebih jauh."
-  },
-  {
-    "author": "Thomas Fuller",
-    "quotes": "Orang yang tidak bisa memaafkan orang lain sama saja dengan orang yang memutuskan jembatan yang harus dilaluinya, karena semua orang perlu dimaafkan."
-  },
-  {
-    "author": "Thomas Fuller",
-    "quotes": "Menyaksikan adalah mempercayai, tapi merasakan adalah kebenaran."
-  },
-  {
-    "author": "Thomas Jefferson",
-    "quotes": "Dalam hal prinsip, usahakan kukuh seperti batu karang. Dalam hal selera, coba berenang mengikuti arus."
-  },
-  {
-    "author": "Tung Desem Waringin",
-    "quotes": "Setiap badai pasti berlalu dan saya akan tumbuh semakin kuat."
-  },
-  {
-    "author": "Tyler Durden",
-    "quotes": "Setelah kehilangan segalanya, barulah kita bebas melakukan apa saja."
-  },
-  {
-    "author": "Umar bin Khattab",
-    "quotes": "Raihlah ilmu dan untuk meraih ilmu belajarlah untuk tenang dan sabar."
-  },
-  {
-    "author": "Vicosta Efran",
-    "quotes": "Hiduplah seperti lilin yang menerangi orang lain. Jangan hidup seperti duri yang mencucuk diri dan menyakiti orang lain."
-  },
-  {
-    "author": "Victor Hugo",
-    "quotes": "Kesedihan adalah buah. Tuhan tak pernah membiarkannya tumbuh dicabang yang terlalu lemah untuk menanggungnya."
-  },
-  {
-    "author": "Victor Hugo",
-    "quotes": "Kebahagian tertinggi dalam kehidupan adalah kepastian bahwa Anda dicintai apa adanya, atau lebih tepatnya dicintai walaupun Anda seperti diri Anda adanya."
-  },
-  {
-    "author": "Victor Hugo",
-    "quotes": "Masalahnya bukan kurangnya tenaga, tetapi kurangnya daya kemauan."
-  },
-  {
-    "author": "Vince Lambardi",
-    "quotes": "Kemenangan bukanlah segala-galanya, tetapi perjuangan untuk menang adalah segala-galanya."
-  },
-  {
-    "author": "Virginia Wolf",
-    "quotes": "Jika Anda tak bisa mengatakan hal yang benar dari diri Anda, maka Anda pun tak bisa mengatakan hal yang benar dari orang lain."
-  },
-  {
-    "author": "W. Camden",
-    "quotes": "Burung yang terbang pagi akan memperoleh cacing paling banyak."
-  },
-  {
-    "author": "Walt Disney",
-    "quotes": "Cara untuk memulai adalah berhenti berbicara dan mulai lakukan sesuatu."
-  },
-  {
-    "author": "Walter Cronkite",
-    "quotes": "Sukses akan lebih permanen jika Anda meraihnya tanpa menghancurkan prinsip-prinsip Anda."
-  },
-  {
-    "author": "Warren Buffett",
-    "quotes": "Dari dulu saya selalu yakin saya akan kaya. Saya kira saya tak pernah meragukannya, satu menit pun."
-  },
-  {
-    "author": "Whitney Young",
-    "quotes": "Lebih baik menyiapkan diri untuk sebuah peluang dan tidak mendapatkannya daripada punya peluang dan tidak menyiapkan diri."
-  },
-  {
-    "author": "William A. W.",
-    "quotes": "Satu-satunya yang bisa menghalangi kita adalah keyakinan yang salah dan sikap yang negatif."
-  },
-  {
-    "author": "William Allen White",
-    "quotes": "Saya tidak takut pada hari esok karena saya sudah melihat hari kemarin dan saya mencintai hari ini."
-  },
-  {
-    "author": "William Arthur",
-    "quotes": "Guru yang biasa-biasa, berbicara. Guru yang bagus, menerangkan. Guru yang hebat, mendemonstrasikan. Guru yang agung, memberi inspirasi."
-  },
-  {
-    "author": "William F. Halsey",
-    "quotes": "Semua masalah menjadi lebih kecil jika Anda tidak mengelaknya, tapi menghadapinya."
-  },
-  {
-    "author": "William J. Johnston",
-    "quotes": "Perubahan yang paling bermakna dalam hidup adalah perubahan sikap. Sikap yang benar akan menghasilkan tindakan yang benar."
-  },
-  {
-    "author": "William James",
-    "quotes": "Jika Anda harus membuat pilihan dan Anda tidak melakukannya, itu saja sudah pilihan."
-  },
-  {
-    "author": "William James",
-    "quotes": "Percaya bahwa hidup itu berharga, dan kepercayaan Anda akan membantu menciptakan hidup yang berharga."
-  },
-  {
-    "author": "William Ralph Inge",
-    "quotes": "Kuatir sama seperti membayar bunga untuk uang yang mungkin tak pernah Anda pinjam."
-  },
-  {
-    "author": "William Shakespeare",
-    "quotes": "Jangan sering menyalakan api kebencian terhadap musuhmu, karena nanti akan membakar dirimu sendiri."
-  },
-  {
-    "author": "William Shakespeare",
-    "quotes": "Bila kamu jujur kepada dirimu sendiri, bagai siang pasti berganti malam, kamu takkan pernah berdusta kepada orang lain."
-  },
-  {
-    "author": "William Shakespeare",
-    "quotes": "Kutu yang berani adalah kutu yang bisa berani mendapatkan sarapannya pada bibir seekor singa."
-  },
-  {
-    "author": "Winston Churchill",
-    "quotes": "Kita menyambung hidup dengan apa yang kita peroleh, tapi kita menghadirkan kehidupkan dengan apa yang kita berikan."
-  },
-  {
-    "author": "Wolfgang von Gothe",
-    "quotes": "Pengetahuan tidaklah cukup, kita harus mengamalkannya. Niat tidak cukup, kita harus melakukannya."
-  },
-  {
-    "author": "Zachary Scott",
-    "quotes": "Ketika Anda bertambah tua, Anda akan menemukan satu-satunya hal yang Anda sesali adalah hal-hal yang tidak Anda lakukan."
-  },
-  {
-    "author": "Zig Zaglar",
-    "quotes": "Batu fondasi untuk sukses yang seimbang adalah kejujuran, watak, integritas, iman, cinta dan kesetiaan."
-  },
-  {
-    "author": "Zig Zaglar",
-    "quotes": "Kebanyakan orang gagal meraih cita-citanya bukan karena mereka tidak mampu, tetapi karena tidak berkomitmen."
-  },
-  {
-    "author": "Zig Zaglar",
-    "quotes": "Kita tidak harus hebat saat memulai, tapi kita harus memulai untuk menjadi hebat."
+const frases = (prefix) => { 
+	return `[
+   {
+     "author": "A. França",
+     "quotes": "Melhor entender um pouco do que entender mal."
+   },
+   {
+     "author": "Abraham Lincoln",
+     "quotes": "Quase todos os homens são capazes de resistir à adversidade. No entanto, se você quiser testar o verdadeiro caráter de um homem, dê-lhe poder."
+   },
+   {
+     "author": "Ésquilo",
+     "quotes": "Quando a determinação de alguém é forte e firme, Deus unirá seus esforços."
+   },
+   {
+     "author": "Aesop",
+     "quotes": "O sofrimento é uma lição."
+   },
+   {
+     "author": "Albert Einstein",
+     "quotes": "Ciência sem religião é manca."
+   },
+   {
+     "author": "Albert Einstein",
+     "quotes": "A vida é como uma bicicleta, para nos mantermos equilibrados temos que seguir em frente."
+   },
+   {
+     "author": "Albert Einstein",
+     "quotes": "A distinção entre passado, presente e futuro nada mais é do que uma ilusão teimosa."
+   },
+   {
+     "author": "Albert Einstein",
+     "quotes": "Uma mesa, uma cadeira, uma tigela de frutas e um violino; o que mais é preciso para ser feliz?"
+   },
+   {
+     "author": "Albert Einstein",
+     "quotes": "Tenha misericórdia dos outros, seja duro consigo mesmo."
+   },
+   {
+     "author": "Alex Osborn",
+     "quotes": "A melhor maneira de se motivar é atribuindo tarefas a si mesmo."
+   },
+   {
+     "author": "Alexander A. Bogomoletz",
+     "quotes": "Não devemos desanimar. A paixão é o mais forte estimulante do amor, da criatividade e do desejo de viver mais."
+   },
+   {
+     "author": "Alexander Solzhenitsyn",
+     "quotes": "O homem será feliz enquanto decidir ser feliz."
+   },
+   {
+     "author": "Ali Javan",
+     "quotes": "Não espero ser tudo para todos. Só quero ser algo para alguém."
+   },
+   {
+     "author": "Ali bin Abi Talib",
+     "quotes": "Quando o intelecto de um homem é perfeito, ele tem poucas palavras."
+   },
+   {
+     "author": "Ali bin Abi Talib",
+     "quotes": "Feliz é o homem que pode ser seu próprio senhor, o cocheiro de suas paixões e o capitão da arca de sua vida."
+   },
+   {
+     "author": "Ali bin Abi Talib",
+     "quotes": "Um amigo honesto vale mais do que os bens herdados de seus ancestrais."
+   },
+   {
+     "author": "Anne M. Lindbergh",
+     "quotes": "A coisa mais cansativa da vida é não ser sincero."
+   },
+   {
+     "author": "Anônimo",
+     "quotes": "Abra para você, é assim que Deus nos dá uma maneira de tentar. Nunca pense que o caminho está fechado."
+   },
+   {
+     "author": "Anônimo",
+     "quotes": "A procrastinação é o túmulo onde a oportunidade está enterrada."
+   },
+   {
+     "author": "Antonie De Saint",
+     "quotes": "O amor não é olhar nos olhos um do outro, mas olhar na mesma direção juntos."
+   },
+   {
+     "author": "Aristóteles",
+     "quotes": "Somos o que fazemos repetidamente. Assim, a excelência não é um ato, mas um hábito."
+   },
+   {
+     "author": "Arnold Glasow",
+     "quotes": "Nunca tente fazer seu filho gostar de você. Você é apenas um."
+   },
+   {
+     "author": "Art Buchwald",
+     "quotes": "Se você pode fazer outras pessoas rirem, então você obterá todo o amor que deseja."
+   },
+   {
+     "author": "Artemus Ward",
+     "quotes": "Os problemas virão mais cedo ou mais tarde. Se um problema acontecer, receba-o da melhor maneira possível. Quanto mais amigável você o cumprimentar, mais rápido ele irá."
+   },
+   {
+     "author": "Ashleigh Brilliant",
+     "quotes": "Não podemos fazer nada para mudar o passado. Mas tudo o que fizermos pode mudar o futuro."
+   },
+   {
+     "author": "Agostinho",
+     "quotes": "Paciência é amiga da sabedoria."
+   },
+   {
+     "author": "Ayn Rand",
+     "quotes": "Pessoas criativas são motivadas pelo desejo de progredir, não pelo desejo de vencer os outros."
+   },
+   {
+     "author": "B. J. Habibie",
+     "quotes": "Onde quer que você esteja seja sempre o melhor e dê o melhor que nós podemos dar."
+   },
+   {
+     "author": "Balzac",
+     "quotes": "O ódio é como o amor, incendiado sobre pequenas coisas."
+   },
+   {
+     "author": "Barbara Sher",
+     "quotes": "Você não precisa necessariamente ter sucesso na primeira vez."
+   },
+   {
+     "author": "Beecher",
+     "quotes": "Uma hora de intensa, muito melhor e lucrativa do que anos de sonhos e meditações."
+   },
+   {
+     "author": "Benjamin Disraeli",
+     "quotes": "A melhor coisa que você pode fazer por outra pessoa não é compartilhar sua riqueza, mas ajudá-la a ter a sua própria."
+   },
+   {
+     "author": "Bill Clinton",
+     "quotes": "Não há garantia de sucesso, mas não tentar é garantia de fracasso."
+   },
+   {
+     "author": "Bill Cosby",
+     "quotes": "Não sei qual é a chave do sucesso, mas a chave do fracasso é tentar fazer todos felizes."
+   },
+   {
+     "author": "Bill Gates",
+     "quotes": "O consumidor mais insatisfeito é um recurso valioso para o aprendizado."
+   },
+   {
+     "author": "Bill McCartney",
+     "quotes": "Não estamos aqui para competir uns com os outros. Estamos aqui para nos complementar."
+   },
+   {
+     "author": "Brian Koslow",
+     "quotes": "Quanto mais estamos dispostos a assumir a responsabilidade por nossas ações, mais credibilidade temos."
+   },
+   {
+     "author": "Browning",
+     "quotes": "É sempre bom perdoar, mas é melhor esquecer um erro."
+   },
+   {
+     "author": "Bruce Lee",
+     "quotes": "Não seja uma árvore rígida que se quebra com facilidade. Seja um bambu que resista às dobras contra o vento."
+   },
+   {
+     "author": "Gautama Buda",
+     "quotes": "Não chore por causa do fracasso do amor, porque o homem vai deixar tudo o que ama."
+   },
+   {
+     "author": "Madre Teresa",
+     "quotes": "Se você julga outras pessoas, não tem tempo para amá-las."
+   },
+   {
+     "author": "Madre Teresa",
+     "quotes": "Se não há paz, é porque nos esquecemos que precisamos uns dos outros."
+   },
+   {
+     "author": "Bung Hatta",
+     "quotes": "Menos inteligência pode ser melhorada com o aprendizado, a falta de habilidade pode ser melhorada com a experiência, a falta de honestidade é difícil de corrigir."
+   },
+   {
+     "author": "Gravar",
+     "quotes": "Muitas pessoas são bem-sucedidas graças às muitas dificuldades e sofrimentos que devem ser enfrentados."
+   },
+   {
+     "author": "Carol Burnet",
+     "quotes": "Só eu posso mudar minha vida, ninguém pode fazer isso por mim."
+   },
+   {
+     "author": "Charles Darwin",
+     "quotes": "Não é a espécie mais forte que sobrevive. Nem a espécie mais inteligente. Mas a espécie mais responsiva à mudança."
+   },
+   {
+     "author": "Charles R. Swindoll",
+     "quotes": "A vida é 10 por cento o que acontece com você, 90 por cento como você reage a ela."
+   },
+   {
+     "author": "Ching Hai",
+     "quotes": "Melhorar a nós mesmos é melhorar o mundo."
+   },
+   {
+     "author": "Ching Hai",
+     "quotes": "Não discrimine entre empregos bons e ruins. Os problemas surgem quando discriminamos e tomamos partido."
+   },
+   {
+     "author": "Ching Hai",
+     "quotes": "O trabalho deve ser altruísta. Isso se aplica a todos os empregos. A devoção incondicional é o melhor."
+   },
+   {
+     "author": "Ching Hai",
+     "quotes": "Devemos primeiro encontrar o poder do amor dentro de nós mesmos, então podemos amar verdadeiramente os outros."
+   },
+   {
+     "author": "Ching Hai",
+     "quotes": "Procure dinheiro apenas o suficiente para pagar pela vida, para que possa reservar tempo e energia para a prática espiritual."
+   },
+   {
+     "author": "Cristóvão Colombo",
+     "quotes": "A riqueza não torna uma pessoa rica, apenas a torna mais ocupada."
+   },
+   {
+     "author": "Cícero",
+     "quotes": "Um coração agradecido não é apenas a maior virtude, mas a mãe de todas as outras virtudes."
+   },
+   {
+     "author": "Cícero",
+     "quotes": "Um coração agradecido não é apenas a maior virtude, mas a mãe de todas as outras virtudes."
+   },
+   {
+     "author": "Clarence Darrow",
+     "quotes": "A liberdade vem das pessoas, não de leis ou instituições."
+   },
+   {
+     "author": "Confúcio",
+     "quotes": "A vida é muito simples, mas insistimos em complicar."
+   },
+   {
+     "author": "Confúcio",
+     "quotes": "Onde quer que você vá, vá com todo seu coração."
+   },
+   {
+     "author": "Confúcio",
+     "quotes": "Pessoas que cometem erros e não os corrigem cometem outros erros."
+   },
+   {
+     "author": "Confúcio",
+     "quotes": "Nosso maior orgulho não é nunca falhar, mas em nos levantarmos cada vez que caímos."
+   },
+   {
+     "author": "Cowper",
+     "quotes": "A flor que nunca murchará na terra é uma virtude."
+   },
+   {
+     "author": "Cynthia Ozick",
+     "quotes": "Para imaginar o inimaginável requer imaginação extraordinária."
+   },
+   {
+     "author": "D. J. Schwartz",
+     "quotes": "Qualquer dificuldade não resiste à tenacidade e perseverança. Sem tenacidade, as pessoas mais inteligentes e talentosas costumam falhar na vida."
+   },
+   {
+     "author": "Dale Carnegie",
+     "quotes": "A única maneira de conseguir amor, não é exigir que sejamos amados, mas começar a dar amor aos outros sem esperar nada em troca."
+   },
+   {
+     "author": "Dale Carnegie",
+     "quotes": "Quando as pessoas que se preocupam com suas deficiências são gratas pela riqueza que possuem, elas param de se preocupar."
+   },
+   {
+     "author": "Dale Carnegie",
+     "quotes": "Tente formar uma conexão 'fio' entre seu cérebro e seu coração."
+   },
+   {
+     "author": "Dale Carnegie",
+     "quotes": "O sorriso enriquecerá a alma de quem o recebe, sem empobrecer quem o dá."
+   },
+   {
+     "author": "Dale Carnegie",
+     "quotes": "As pessoas raramente são bem-sucedidas, a menos que estejam felizes com o que fazem."
+   },
+   {
+     "author": "David Livingston",
+     "quotes": "Vou a qualquer lugar, desde que seja o caminho a seguir."
+   },
+   {
+     "author": "David V. Ambrose",
+     "quotes": "Se você tem vontade de vencer, você está no meio do caminho. Se você não tem vontade de vencer, você está no meio do caminho."
+   },
+   {
+     "author": "David Weinbaum",
+     "quotes": "O segredo para viver uma vida rica é ter mais começos do que fins."
+   },
+   {
+     "author": "Desbarrolles",
+     "quotes": "A verdade que não for compreendida será um erro."
+   },
+   {
+     "author": "Descreve",
+     "quotes": "Eu acho, é por isso que existo."
+   },
+   {
+     "author": "Djamaludin Abassy",
+     "quotes": "Uma mente fraca é pior do que um corpo fraco."
+   },
+   {
+     "author": "Donald Kendall",
+     "quotes": "O único sucesso alcançado antes do trabalho está apenas no dicionário."
+   },
+   {
+     "author": "Dr. Frank Crane",
+     "quotes": "Nossos melhores amigos e nossos piores inimigos são nossos pensamentos. A mente pode ser melhor do que um médico, um banqueiro ou um amigo de confiança. Também pode ser mais perigosa do que um criminoso."
+   },
+   {
+     "author": "Dr. Ronald Niednagel",
+     "quotes": "Vá até onde você pode ver, e quando você chegar lá, você verá mais longe."
+   },
+   {
+     "author": "Dr. \ u00a0Johnnetta Cole",
+     "quotes": "Se você quer ir rápido, vá sozinho. Se você quiser ir longe, vá junto."
+   },
+   {
+     "author": "Dwigt D. Esenhower",
+     "quotes": "Um intelectual nunca dirá mais do que sabe."
+   },
+   {
+     "author": "Earl Campbell",
+     "quotes": "Os problemas são o preço que você paga pelo progresso."
+   },
+   {
+     "author": "Earl Campbell",
+     "quotes": "Os problemas são o preço que você tem que pagar pelo progresso."
+   },
+   {
+     "author": "Edgar Alnsel",
+     "quotes": "A vida humana está cheia de perigos, mas aí reside o encanto."
+   },
+   {
+     "author": "Edmund Burke",
+     "quotes": "Você não pode planejar o futuro com base no passado."
+   },
+   {
+     "author": "Edward L. Curtis",
+     "quotes": "Otimismo sem esforço é um mero pensamento que não dá frutos."
+   },
+   {
+     "author": "Edward de Bono",
+     "quotes": "Se você é uma daquelas pessoas que gosta de esperar que as oportunidades surjam em seu caminho, você faz parte da raça humana."
+   },
+   {
+     "author": "Edy Murphy",
+     "quotes": "Passei meus 30 anos consertando todos os erros que cometi aos 20".
+   },
+   {
+     "author": "Einstein",
+     "quotes": "Tente não ser um ser humano bem-sucedido, mas tente ser um ser humano útil."
+   },
+   {
+     "author": "Eisenhower",
+     "quotes": "De agora em diante, não precisamos perder um minuto pensando em pessoas de quem não gostamos."
+   },
+   {
+     "author": "Elanor Roosevelt",
+     "quotes": "Quando paramos de fazer contribuições, começamos a morrer."
+   },
+   {
+     "author": "Elbert Hubbad",
+     "quotes": "O maior erro que as pessoas cometem na vida é ter medo constante de cometer um erro."
+   },
+   {
+     "author": "Elizabeth Browning",
+     "quotes": "Não chame as pessoas de infelizes antes de morrer. Não julgue o trabalho de alguém antes que acabe."
+   },
+   {
+     "author": "Emerson",
+     "quotes": "Acreditar em si mesmo é o segredo máximo para o sucesso."
+   },
+   {
+     "author": "Engelbert Huperdinck",
+     "quotes": "Você deve estar ciente do prazer. Certifique-se de apreciá-lo e não ser controlado por ele."
+   },
+   {
+     "author": "Erich Watson",
+     "quotes": "A perda de riqueza pode ser recuperada, a confiança perdida é difícil de recuperar."
+   },
+   {
+     "author": "Francois De La Roche",
+     "quotes": "Se você não consegue encontrar paz dentro de si mesmo, não há motivo para procurar outro lugar."
+   },
+   {
+     "author": "Francois De La Roche",
+     "quotes": "Estamos acostumados a nos esconder dos outros, até que finalmente estamos escondidos de nós mesmos."
+   },
+   {
+     "author": "François Roche",
+     "quotes": "Estamos mais ocupados em convencer os outros de que somos felizes do que realmente nos sentirmos felizes."
+   },
+   {
+     "author": "Frank Crane",
+     "quotes": "Você pode se enganar se confiar demais, mas sua vida será miserável se não confiar o suficiente."
+   },
+   {
+     "author": "Frank Giblin",
+     "quotes": "Seja você mesmo. Quem mais pode fazer isso melhor do que você?"
+   },
+   {
+     "author": "Franklin",
+     "quotes": "Se você quer ser amado, ame e aja como alguém que merece ser amado."
+   },
+   {
+     "author": "Fuller",
+     "quotes": "Um bom exemplo é o melhor conselho."
+   },
+   {
+     "author": "Galileo Galilei",
+     "quotes": "A grama mais forte cresce no solo mais duro."
+   },
+   {
+     "author": "Galileo Galilei",
+     "quotes": "Você não pode ensinar nada a uma pessoa, você só pode ajudá-la a descobrir o que está dentro de si mesma."
+   },
+   {
+     "author": "Gandhi",
+     "quotes": "Aqueles que são fracos de coração não serão capazes de dar desculpas sinceras. O verdadeiro perdão só está ligado àqueles que têm um coração forte."
+   },
+   {
+     "author": "Gandhi",
+     "quotes": "A felicidade depende do que você pode dar, não do que você recebe."
+   },
+   {
+     "author": "Gen Collin Powell",
+     "quotes": "Não há segredo para alcançar o sucesso. O sucesso pode acontecer por causa da preparação, do trabalho árduo e da vontade de aprender com o fracasso."
+   },
+   {
+     "author": "George B. Shaw",
+     "quotes": "A vida não é encontrar a si mesmo. A vida é criar a si mesmo."
+   },
+   {
+     "author": "George III",
+     "quotes": "Prefiro perder a coroa do que fazer algo que considero vergonhoso."
+   },
+   {
+     "author": "George Santayana",
+     "quotes": "Não há cura para o nascimento e a morte, exceto desfrutar do que está entre eles."
+   },
+   {
+     "author": "George W.",
+     "quotes": "A esperança nunca nos deixa, nós deixamos a esperança."
+   },
+   {
+     "author": "Gilbert Chesterton",
+     "quotes": "Para ser inteligente o suficiente para conseguir todo o dinheiro que deseja, você precisa ser estúpido o suficiente para desejá-lo."
+   },
+   {
+     "author": "Gothe",
+     "quotes": "Todo o conhecimento que tenho pode ser obtido por outros, mas meu coração é só para mim."
+   },
+   {
+     "author": "H. N. Spieghel",
+     "quotes": "Não importa o quão alto um pássaro voe, ele deve procurar e encontrar seu alimento na terra também."
+   },
+   {
+     "author": "H.L Hunt",
+     "quotes": "Defina o que deseja. Decida pelo que deseja negociar. Defina as prioridades e execute."
+   },
+   {
+     "author": "Hal Borland",
+     "quotes": "Vendo árvores, entendo a paciência. Olhando para a grama, agradeço a perseverança."
+   },
+   {
+     "author": "Hamka",
+     "quotes": "A beleza eterna reside na beleza das maneiras e no conhecimento de uma pessoa, não em seu rosto e roupas."
+   },
+   {
+     "author": "Hamka",
+     "quotes": "Devemos acreditar que o que Deus determinou para nós é o melhor."
+   },
+   {
+     "author": "Hamka",
+     "quotes": "Ousar defender a justiça, mesmo quando se trata de si mesmo, é o auge de toda coragem."
+   },
+   {
+     "author": "Hamka",
+     "quotes": "A luxúria traz má orientação e não é guiada. Enquanto a razão é o guia para a virtude. A luxúria lhe diz para sonhar, mas a razão lhe diz para pesar."
+   },
+   {
+     "author": "Harriet Braiker",
+     "quotes": "Tentar ter sucesso para se motivar, mas tentar sempre ser perfeito pode ser deprimente."
+   },
+   {
+     "author": "Helen Keller",
+     "quotes": "Não aprenderemos coragem e paciência se neste mundo só houver alegria."
+   },
+   {
+     "author": "Henri Ford",
+     "quotes": "O fracasso é apenas uma oportunidade para começar de novo de maneira mais inteligente."
+   },
+   {
+     "author": "Henry David Thoreau",
+     "quotes": "Bondade é o único investimento que não prejudica."
+   },
+   {
+     "author": "Henry Ford",
+     "quotes": "Idealistas são pessoas que ajudam os outros a prosperar."
+   },
+   {
+     "author": "Henry Ford",
+     "quotes": "Acho que é um trabalho difícil de todos os tipos. É por isso que tão poucas pessoas gostam de fazê-lo."
+   },
+   {
+     "author": "Henry Ford",
+     "quotes": "A competição cujo único objetivo é competir, vencer os outros, nunca traz muitos benefícios."
+   },
+   {
+     "author": "Henry Longfellow",
+     "quotes": "As vidas de grandes pessoas nos lembram que podemos tornar nossas vidas sublimes."
+   },
+   {
+     "author": "Henry Thoreau",
+     "quotes": "Minha vida é meu entretenimento e nunca deixa de me surpreender. Minha vida é como um drama com tantos atos sem fim de cenas."
+   },
+   {
+     "author": "Hubert Humphrey",
+     "quotes": "O que você vê é o que você alcança."
+   },
+   {
+     "author": "Imam Al-Ghazali",
+     "quotes": "A felicidade reside na vitória contra a luxúria e o desejo authoritário."
+   },
+   {
+     "author": "Imam Ghazali",
+     "quotes": "O desprezo de um criminoso é a honra de um homem honesto."
+   },
+   {
+     "author": "J.C.F von Schiller",
+     "quotes": "Aqueles que contemplam muito pouco alcançam."
+   },
+   {
+     "author": "Jack Hyles",
+     "quotes": "Não use pessoas para construir ótimos empregos, use seu trabalho para construir ótimas pessoas."
+   },
+   {
+     "author": "Jackson Brown",
+     "quotes": "O maior erro que você pode cometer é acreditar que está trabalhando para outra pessoa."
+   },
+   {
+     "author": "Jacques Audiberti",
+     "quotes": "A maior covardia é quando provamos nossa força diante das fraquezas dos outros."
+   },
+   {
+     "author": "James Thurber",
+     "quotes": "Não olhe para o passado com arrependimento, não olhe para o futuro com medo, mas olhe ao seu redor com consciência."
+   },
+   {
+     "author": "Janet Erskine",
+     "quotes": "Não espere pelas circunstâncias ideais. Não espere também pelas melhores oportunidades. Nenhuma delas jamais chegará."
+   },
+   {
+     "author": "Jeff Goins",
+     "quotes": "A maioria das pessoas de sucesso que conheço não são pessoas ocupadas, são pessoas focadas."
+   },
+   {
+     "author": "Jerry West",
+     "quotes": "Você não pode fazer muito na sua vida se trabalhar apenas nos dias em que se sente bem."
+   },
+   {
+     "author": "Jim Rohn",
+     "quotes": "As paredes que construímos para bloquear a tristeza, também nos mantêm fechados para a felicidade."
+   },
+   {
+     "author": "Jim Rohn",
+     "quotes": "Se você não projeta sua própria vida, é provável que esteja vivendo o plano de outra pessoa. O que essa pessoa tem em mente para você? Não muito."
+   },
+   {
+     "author": "Jim Ryan",
+     "quotes": "Motivação é algo que o ajuda a começar. O hábito é algo que o mantém ativo."
+   },
+   {
+     "author": "Jimi Hendrix",
+     "quotes": "Quando o poder do amor excede o amor pelo poder, o mundo encontra a paz."
+   },
+   {
+     "author": "Jimmy Dean",
+     "quotes": "Não posso mudar a direção do vento, mas posso ajustar minhas velas para ainda chegar ao meu destino."
+   },
+   {
+     "author": "Joan Baez",
+     "quotes": "Não podemos escolher como morremos ou quando. Só podemos decidir como vivemos. Agora."
+   },
+   {
+     "author": "John B. Gough",
+     "quotes": "Se você quer ter sucesso, você tem que criar oportunidades para si mesmo."
+   },
+   {
+     "author": "John C. Maxwell",
+     "quotes": "Trabalhe duro agora, colha as recompensas mais tarde; relaxe agora, sofra as consequências mais tarde."
+   },
+   {
+     "author": "John C. Maxwell",
+     "quotes": "Para lidar consigo mesmo, use sua cabeça. Para lidar com os outros, use seu coração."
+   },
+   {
+     "author": "John C. Maxwell",
+     "quotes": "Trabalhe duro agora, sinta depois. Preguiçoso agora, sofra as consequências depois."
+   },
+   {
+     "author": "John Craig",
+     "quotes": "Não importa o quanto você possa fazer, não importa o quão atraente seja sua personalidade, você não pode ir longe se não puder trabalhar com outras pessoas."
+   },
+   {
+     "author": "John D Rockefeller",
+     "quotes": "A pessoa mais pobre é aquela que não tem nada além de dinheiro."
+   },
+   {
+     "author": "John Gardne",
+     "quotes": "Se servirmos, a vida terá mais sentido."
+   },
+   {
+     "author": "John Gray",
+     "quotes": "Na verdade todas as dificuldades são oportunidades para a alma crescer."
+   },
+   {
+     "author": "John Manson",
+     "quotes": "Você nasceu original, então não há necessidade de imitar outras pessoas desesperadamente."
+   },
+   {
+     "author": "John Maxwell",
+     "quotes": "Até onde você falha não importa, mas o que importa é a frequência com que você se recupera."
+   },
+   {
+     "author": "John Q. Adams",
+     "quotes": "Se suas ações inspiram os outros a sonhar mais, aprender mais, trabalhar mais e se tornar melhor, você é um líder."
+   },
+   {
+     "author": "John Ruskin",
+     "quotes": "Eu acredito, o primeiro teste para um grande homem é a humildade."
+   },
+   {
+     "author": "John Ruskin",
+     "quotes": "A maior recompensa pelo trabalho árduo de uma pessoa não é o que ela ganha, mas como se desenvolve por causa disso."
+   },
+   {
+     "author": "John Ruskin",
+     "quotes": "A maior recompensa pelo trabalho árduo de uma pessoa não é o que ela ganha, mas como se desenvolve por causa disso."
+   },
+   {
+     "author": "John Wolfgang",
+     "quotes": "Os erros são comuns ao homem, mas é o ato de fingir que realmente gera inimizade e traição."
+   },
+   {
+     "author": "Joseph Addison",
+     "quotes": "A graça muitas vezes chega até nós na forma de dor, perda e decepção; mas se formos pacientes, logo veremos sua verdadeira forma."
+   },
+   {
+     "author": "Julia Roberts",
+     "quotes": "O verdadeiro amor não vem para você, mas deve vir de dentro de você."
+   },
+   {
+     "author": "Junius",
+     "quotes": "A integridade de uma pessoa é medida por sua conduta, não por sua profissão."
+   },
+   {
+     "author": "Kahlil Gibran",
+     "quotes": "Oramos quando estamos com problemas e precisamos de algo, devemos também orar com grande alegria e quando o sustento é abundante."
+   },
+   {
+     "author": "Kahlil Gibran",
+     "quotes": "Para entender o coração e a mente de uma pessoa, não olhe para o que ela conquistou, mas olhe para o que ela aspira ser."
+   },
+   {
+     "author": "Keri Russell",
+     "quotes": "Às vezes, são as pequenas decisões que podem mudar nossas vidas para sempre."
+   },
+   {
+     "author": "Knute Rockne",
+     "quotes": "Quando a jornada fica difícil, as pessoas tenazes continuam."
+   },
+   {
+     "author": "Kong Hu Cu",
+     "quotes": "Uma pessoa virtuosa é sempre guiada pela justiça e sempre tenta cumprir suas obrigações."
+   },
+   {
+     "author": "Konrad Adenauer",
+     "quotes": "Todos vivemos sob o mesmo céu, mas nem todos têm o mesmo horizonte."
+   },
+   {
+     "author": "Kung Fu-Tze",
+     "quotes": "Aquele que é sábio se envergonhará, se suas palavras forem melhores do que suas ações."
+   },
+   {
+     "author": "Lao Tzu",
+     "quotes": "Quando eu percebo que nada falta a você, o mundo inteiro é meu."
+   },
+   {
+     "author": "Lao Tzu",
+     "quotes": "Quando você percebe que nada lhe falta, o mundo inteiro é seu."
+   },
+   {
+     "author": "Les Brown",
+     "quotes": "Aceite a responsabilidade por si mesmo. Perceba que só você, ninguém mais, pode levá-lo aonde deseja."
+   },
+   {
+     "author": "Louis Gittner",
+     "quotes": "Mesmo que o que enfrentemos seja um beco sem saída, o amor construirá um viaduto sobre ele."
+   },
+   {
+     "author": "Louis Pasteur",
+     "quotes": "Você conhece o segredo do meu sucesso em alcançar meus objetivos? Apenas tenacidade, nada mais, nada menos."
+   },
+   {
+     "author": "Mahatma Gandhi",
+     "quotes": "A satisfação está no esforço, não nos resultados. Tentar muito é a verdadeira vitória."
+   },
+   {
+     "author": "Marcel Ayme",
+     "quotes": "A humildade é a sala de espera da perfeição."
+   },
+   {
+     "author": "Maria Sharapova",
+     "quotes": "Aprendo muito com as derrotas. E essas derrotas me tornam mais forte."
+   },
+   {
+     "author": "Mark Cuban",
+     "quotes": "Faça seus esforços bem-sucedidos da única maneira: trabalho duro !."
+   },
+   {
+     "author": "Mark Twain",
+     "quotes": "Bondade é uma linguagem que os surdos podem ouvir e os cegos podem ver."
+   },
+   {
+     "author": "Marsha Sinetar",
+     "quotes": "Faça o que você ama, o dinheiro virá em seguida."
+   },
+   {
+     "author": "Martin Luther King",
+     "quotes": "Nunca é um momento ruim para fazer a coisa certa."
+   },
+   {
+     "author": "Mary McCarthy",
+     "quotes": "Mesmo se você estiver no caminho certo, você ainda será ultrapassado se apenas sentar lá."
+   },
+   {
+     "author": "Maxim Gorky",
+     "quotes": "A felicidade sempre parece pequena quando você a segura em suas mãos. Mas tente deixá-la ir e você saberá imediatamente como a felicidade é grande e preciosa."
+   },
+   {
+     "author": "Mary Hemingway",
+     "quotes": "Treine-se para não se preocupar. Preocupar-se nunca corrige nada."
+   },
+   {
+     "author": "Michael Drury",
+     "quotes": "Maturidade não é um estado alcançado com a idade. É um desenvolvimento do amor, aprendizagem, leitura e pensamento para a produção de habilidades."
+   },
+   {
+     "author": "Michael Pritchard",
+     "quotes": "Você não para de rir porque está envelhecendo. Em vez disso, você envelhece porque para de rir."
+   },
+   {
+     "author": "Miguel de Cervantes",
+     "quotes": "Um provérbio é uma frase curta baseada em uma longa experiência."
+   },
+   {
+     "author": "Miguel de Unamuno",
+     "quotes": "Não ser amado pelos outros é triste, mas é ainda mais triste não poder amar outra pessoa."
+   },
+   {
+     "author": "N. H. Casson",
+     "quotes": "A pobreza da alma é mais terrível do que a pobreza material ou material."
+   },
+   {
+     "author": "Natalie Portman",
+     "quotes": "Você não é rico até ter algo que o dinheiro não pode comprar."
+   },
+   {
+     "author": "Nelson Mandela",
+     "quotes": "A educação é a arma mais poderosa que você pode usar para mudar o mundo."
+   },
+   {
+     "author": "Norman Peale",
+     "quotes": "Afaste esses pensamentos sombrios e perturbadores e depois os reviva."
+   },
+   {
+     "author": "Nunse",
+     "quotes": "Não é o forte, mas a tenacidade que os torna grandes homens."
+   },
+   {
+     "author": "O.S. Marden",
+     "quotes": "O progresso é o resultado da concentração de todas as forças da alma e da mente nos objetivos pretendidos."
+   },
+   {
+     "author": "Oliver W. Holmes",
+     "quotes": "Quanto mais vivemos, mais descobrimos que somos semelhantes a outras pessoas."
+   },
+   {
+     "author": "Oprah Winfrey",
+     "quotes": "Dar o seu melhor neste momento irá colocá-lo no melhor lugar no momento seguinte."
+   },
+   {
+     "author": "Oscar Wilde",
+     "quotes": "Se alguém diz a verdade, tem certeza; mais cedo ou mais tarde; vai entender."
+   },
+   {
+     "author": "Pablo Picasso",
+     "quotes": "Quando seu moral estiver baixo, faça algo. Se você fez algo, as coisas não mudaram, faça algo diferente."
+   },
+   {
+     "author": "Paul Galvin",
+     "quotes": "Não tenha medo de erros. A sabedoria geralmente nasce dos erros."
+   },
+   {
+     "author": "Paul Harvey",
+     "quotes": "Nunca vi um monumento erigido para um pessimista."
+   },
+   {
+     "author": "provérbio chinês",
+     "quotes": "Ouse perceber os erros e comece de novo."
+   },
+   {
+     "author": "provérbio chinês",
+     "quotes": "Certo, seja corajoso."
+   },
+   {
+     "author": "provérbio chinês",
+     "quotes": "Pessoas que perguntam são estúpidas em 5 minutos. E pessoas que não perguntam permanecerão estúpidas para sempre."
+   },
+   {
+     "author": "provérbio chinês",
+     "quotes": "Quando eu ouvir, vou esquecer. Depois de ver, posso entender. E depois de fazer, então posso entender."
+   },
+   {
+     "author": "provérbio chinês",
+     "quotes": "Pessoas que sorriem são sempre mais fortes do que pessoas que estão com raiva."
+   },
+   {
+     "author": "provérbio chinês",
+     "quotes": "Quem move montanhas começa movendo pequenas pedras."
+   },
+   {
+     "author": "Provérbio inglês",
+     "quotes": "As pessoas que procuram problemas sempre os encontrarão."
+   },
+   {
+     "author": "Provérbios ingleses",
+     "quotes": "Habilidade e crença são uma força armada invencível."
+   },
+   {
+     "author": "provérbio japonês",
+     "quotes": "Uma flecha é fácil de quebrar, mas não dez flechas juntas."
+   },
+   {
+     "author": "provérbio japonês",
+     "quotes": "Visão sem ação é um sonho. Ação sem visão é um pesadelo."
+   },
+   {
+     "author": "Provérbio alemão",
+     "quotes": "Aqueles que nunca provaram o amargo nunca saberão o que é doce."
+   },
+   {
+     "author": "provérbio latino",
+     "quotes": "Ao aprender, você pode ensinar. Ao ensinar, você aprende."
+   },
+   {
+     "author": "provérbio persa",
+     "quotes": "Chorei porque não tinha sapatos, até que vi gente que não tinha pés."
+   },
+   {
+     "author": "Provérbio de Roma",
+     "quotes": "Tribulação produz perseverança. Perseverança produz caráter e caráter produz esperança."
+   },
+   {
+     "author": "Provérbio escocês",
+     "quotes": "Quando a vontade está pronta, as pernas ficam leves."
+   },
+   {
+     "author": "provérbio espanhol",
+     "quotes": "Conhecer a si mesmo é o começo do autoaperfeiçoamento."
+   },
+   {
+     "author": "Provérbio Tibetano",
+     "quotes": "Não subestime um pequeno rei, assim como não subestime um pequeno rio."
+   },
+   {
+     "author": "Provérbio Tibetano",
+     "quotes": "Quando um homem ensina algo, ele mesmo deve praticá-lo."
+   },
+   {
+     "author": "Peter Sinclair",
+     "quotes": "Uma grande vida é o culminar de grandes pensamentos acompanhados de grandes ações."
+   },
+   {
+     "author": "Phyllis Bottome",
+     "quotes": "Existem duas maneiras de superar as adversidades, você muda as dificuldades ou você muda a si mesmo para superá-las."
+   },
+   {
+     "author": "Platão",
+     "quotes": "Os sábios falam porque têm algo a dizer, os tolos falam porque têm algo a dizer."
+   },
+   {
+     "author": "Platão",
+     "quotes": "Um homem sábio fala porque tem algo a dizer. Um tolo fala porque deve dizer algo."
+   },
+   {
+     "author": "Platão",
+     "quotes": "Fazer injustiça é mais vergonhoso do que sofrer injustiça."
+   },
+   {
+     "author": "Platão",
+     "quotes": "Aquele que não pode liderar a si mesmo, não pode liderar as pessoas."
+   },
+   {
+     "author": "Plauto",
+     "quotes": "Paciência é o melhor remédio para todos os problemas."
+   },
+   {
+     "author": "Plauto",
+     "quotes": "É muito mais fácil começar bem do que terminar bem."
+   },
+   {
+     "author": "Plínio, o Velho",
+     "quotes": "A esperança é o pilar que sustenta o mundo."
+   },
+   {
+     "author": "R. A. Kartini",
+     "quotes": "A vitória gloriosa não é obtida apenas no campo de batalha, mas geralmente é obtida com o coração."
+   },
+{
+      "author": "R. Browning",
+      "quotes": "caímos para levantar, paramos para caminhar e dormimos para nos levantar."
+    },
+    {
+      "author": "R. W. Shephred",
+      "quotes": "Você tem que lidar com a depressão, assim como você lida com um tigre."
+    },
+    {
+      "author": "R.H. Grant",
+      "quotes": "Se você contratar pessoas que são mais inteligentes do que você, você prova que é mais inteligente do que eles."
+    },
+    {
+      "author": "Rabino Schachtel",
+      "quotes": "Felicidade não é ter o que queremos, mas querer o que temos."
+    },
+    {
+      "author": "Ralph W. Emerson",
+      "quotes": "Um grama de ação vale mais do que uma tonelada de teoria."
+    },
+    {
+      "author": "Ralph W. Emerson",
+      "quotes": "Uma pessoa é um grande sucesso se ela percebe que seus fracassos são uma preparação para suas vitórias."
+    },
+    {
+      "author": "Ralph Waldo Emerson",
+      "quotes": "A paz não existe no mundo exterior, mas na própria alma humana."
+    },
+    {
+      "author": "Ralph Waldo Emerson",
+      "quotes": "Confie nos outros e eles serão sinceros com você. Trate-os como grandes pessoas e eles se mostrarão ótimos."
+    },
+    {
+      "author": "Rene Descartes",
+      "quotes": "Não basta apenas ter um bom cérebro. O importante é usá-lo bem."
+    },
+    {
+      "author": "Richard Bach",
+      "quotes": "Pergunte a si mesmo o segredo do sucesso. Ouça suas respostas e faça-o."
+    },
+    {
+      "author": "Richard C. Miller",
+      "quotes": "Se a grama for mais verde do outro lado, fique grato por ainda poder subir no chão para vê-la."
+    },
+    {
+      "author": "Robert Collier",
+      "quotes": "Suas chances de sucesso em qualquer situação podem sempre ser medidas pelo quanto você acredita em si mesmo."
+    },
+    {
+      "author": "Robert F. Kennedy",
+      "quotes": "Progresso é uma palavra doce, mas a mudança é a força motriz e a mudança tem muitos inimigos."
+    },
+    {
+      "author": "Robert Frost",
+      "quotes": "Duas estradas separadas por árvores, e eu peguei a estrada menos percorrida. E é isso que faz a diferença."
+    },
+    {
+      "author": "Robert Frost",
+      "quotes": "A razão pela qual a ansiedade mata mais pessoas do que o trabalho é que mais pessoas se preocupam do que o trabalho."
+    },
+    {
+      "author": "Robert G. Ingersoll",
+      "quotes": "Poucos ricos têm posses. A maioria dos tesouros os possui."
+    },
+    {
+      "author": "Robert Half",
+      "quotes": "A perseverança torna possível o impossível, a possibilidade torna-se possível e a possibilidade torna-se certa."
+    },
+    {
+      "author": "Robert S. Lynd",
+      "quotes": "Só um peixe estúpido pode ser pego duas vezes com a mesma isca."
+    },
+    {
+      "author": "Robert Von Hartman",
+      "quotes": "A ambição é como a água do mar, quanto mais as pessoas a bebem, mais sedentas as pessoas ficam."
+    },
+    {
+      "author": "Robinsori",
+      "quotes": "A ansiedade e o medo são o resultado da ignorância e da dúvida."
+    },
+    {
+      "author": "Romand Rolland",
+      "quotes": "Um herói é alguém que faz o que é capaz."
+    },
+    {
+      "author": "Roosevelt",
+      "quotes": "Se você quer ser grande, não fale grande, faça as pequenas coisas primeiro."
+    },
+    {
+      "author": "Ross Cooper",
+      "quotes": "A única maneira de mudar nossas vidas é mudando nossas mentes."
+    },
+    {
+      "author": "Ruth P. Freedman",
+      "quotes": "A mudança acontece quando uma pessoa se torna ela mesma, não quando ela tenta ser outra pessoa."
+    },
+    {
+      "author": "Salanter Lipkin",
+      "quotes": "Melhore a si mesmo, mas não subestime os outros."
+    },
+    {
+      "author": "Samuel Smiles",
+      "quotes": "A maneira mais rápida de fazer as coisas é terminar uma de cada vez."
+    },
+    {
+      "author": "Satya Sai Baba",
+      "quotes": "Duas coisas devem ser esquecidas, o bem que fizemos aos outros e o mal que os outros nos fizeram."
+    },
+    {
+      "author": "Scott Fitzgerald",
+      "quotes": "Lembre-se, se ficar de boca fechada, você realmente fez uma escolha."
+    },
+    {
+      "author": "Sêneca",
+      "quotes": "O coração humano nunca estará em paz até que esteja em paz consigo mesmo."
+    },
+    {
+      "author": "Sêneca",
+      "quotes": "Viver é lutar. Uma vida boa sem um furacão é como um mar morto."
+    },
+    {
+      "author": "Shackspeare",
+      "quotes": "A tristeza só pode ser superada por pessoas que a vivenciam."
+    },
+    {
+      "author": "Shirley Briggs",
+      "quotes": "Ouse ser você mesmo, porque podemos fazer isso melhor do que ninguém."
+    },
+    {
+      "author": "Soe Hok Gie",
+      "quotes": "É melhor ser exilado do que ceder à hipocrisia."
+    },
+    {
+      "author": "Soemantri Metodipuro",
+      "quotes": "O primeiro passo para escolher a crença em si mesmo é conhecer a si mesmo."
+    },
+    {
+      "author": "Sófocles",
+      "quotes": "Quando uma pessoa perde todas as fontes de felicidade, ela não está mais viva, mas é um cadáver que respira."
+    },
+    {
+      "author": "São Jerônimo",
+      "quotes": "Bom, melhor, melhor. Nunca pare até que o bom se torne melhor e o melhor se torne o melhor."
+    },
+    {
+      "author": "Stephen R Covey",
+      "quotes": "A motivação é um fogo que vem de dentro. Se outra pessoa tentar acendê-la para você, é provável que só queime brevemente."
+    },
+    {
+      "author": "Steve Jobs",
+      "quotes": "Tenho orgulho das coisas que não fizemos e das coisas que fizemos."
+    },
+    {
+      "author": "Sujiwo Tejo",
+      "quotes": "O amor não precisa de sacrifício. No momento em que você se sente sacrificado, nessa hora seu amor começa a desaparecer."
+    },
+    {
+      "author": "Sydney Harris",
+      "quotes": "A verdadeira ameaça não é quando os computadores começam a pensar como humanos, mas quando os humanos começam a pensar como computadores."
+    },
+    {
+      "author": "Theodore Rosevelt",
+      "quotes": "Faça o que puder com o que você tem e onde você está."
+    },
+    {
+      "author": "Thomas Alva Edison",
+      "quotes": "Muitos fracassos nisso acontecem porque as pessoas não perceberam o quão perto estavam do sucesso quando desistiram."
+    },
+    {
+      "author": "Thomas Carlyle",
+      "quotes": "Vá até onde você pode ver e você será capaz de ver mais longe."
+    },
+    {
+      "author": "Thomas Fuller",
+      "quotes": "Quem não consegue perdoar os outros é igual a quem decide a ponte que deve ser cruzada, porque todos precisam ser perdoados."
+    },
+    {
+      "author": "Thomas Fuller",
+      "quotes": "Testemunhar para crer, mas sentir é verdade."
+    },
+    {
+      "author": "Thomas Jefferson",
+      "quotes": "Em termos de princípio, tente ser forte como uma rocha. Em termos de gosto, tente nadar com a corrente."
+    },
+    {
+      "author": "Tung Desem Waringin",
+      "quotes": "Cada tempestade deve passar e eu ficarei mais forte."
+    },
+    {
+      "author": "Tyler Durden",
+      "quotes": "Depois de perder tudo, estamos livres para fazer qualquer coisa."
+    },
+    {
+      "author": "Umar bin Khattab",
+      "quotes": "Alcance o conhecimento e para adquirir conhecimento aprenda a ter calma e paciência."
+    },
+    {
+      "author": "Vicosta Efran",
+      "quotes": "Viva como uma vela que ilumina os outros. Não viva como um espinho que se pica e fere os outros."
+    },
+    {
+      "author": "Victor Hugo",
+      "quotes": "A tristeza é um fruto. Deus nunca permite que cresça em um galho fraco demais para produzi-lo."
+    },
+    {
+      "author": "Victor Hugo",
+      "quotes": "A maior felicidade na vida é a certeza de que você é amado por quem você é, ou melhor, amado mesmo sendo quem você é."
+    },
+    {
+      "author": "Victor Hugo",
+      "quotes": "O problema não é falta de energia, mas falta de força de vontade."
+    },
+    {
+      "author": "Vince Lambardi",
+      "quotes": "Vencer não é tudo, mas a luta para vencer é tudo."
+    },
+    {
+      "author": "Virginia Wolf",
+      "quotes": "Se você não pode dizer as coisas certas sobre si mesmo, também não pode dizer as coisas certas de outras pessoas."
+    },
+    {
+      "author": "W. Camden",
+      "quotes": "Os pássaros que voam pela manhã são os que pegam mais vermes."
+    },
+    {
+      "author": "Walt Disney",
+      "quotes": "A maneira de começar é parar de falar e começar a fazer algo."
+    },
+    {
+      "author": "Walter Cronkite",
+      "quotes": "O sucesso é mais permanente se você o alcançar sem destruir seus princípios."
+    },
+    {
+      "author": "Warren Buffett",
+      "quotes": "Sempre acreditei que seria rico. Acho que nunca duvidei disso, nem por um minuto."
+    },
+    {
+      "author": "Whitney Young",
+      "quotes": "É melhor estar preparado para uma oportunidade e não entendê-la do que ter uma oportunidade e não estar preparado."
+    },
+    {
+      "author": "William A.W.",
+      "quotes": "As únicas coisas que podem atrapalhar são as crenças erradas e as atitudes negativas."
+    },
+    {
+      "author": "William Allen White",
+      "quotes": "Não tenho medo do amanhã porque vi o ontem e adoro o hoje."
+    },
+    {
+      "author": "William Arthur",
+      "quotes": "Professores medíocres falam. Bons professores explicam. Grandes professores demonstram. Grandes professores inspiram."
+    },
+    {
+      "author": "William F. Halsey",
+      "quotes": "Todos os problemas se tornam menores se você não os evita, mas os enfrenta."
+    },
+    {
+      "author": "William J. Johnston",
+      "quotes": "A mudança mais significativa na vida é uma mudança de atitude. A atitude certa levará à ação certa."
+    },
+    {
+      "author": "William James",
+      "quotes": "Se você tem que fazer uma escolha e não faz, essa é a escolha."
+    },
+    {
+      "author": "William James",
+      "quotes": "Acredite que a vida tem valor e que suas crenças ajudarão a criar uma vida de valor."
+    },
+    {
+      "author": "William Ralph Inge",
+      "quotes": "Preocupar-se é como pagar juros sobre um dinheiro que você nunca pode pedir emprestado."
+    },
+    {
+      "author": "William Shakespeare",
+      "quotes": "Não acenda com frequência o fogo do ódio contra seus inimigos, porque mais tarde ele se queimará."
+    },
+    {
+      "author": "William Shakespeare",
+      "quotes": "Se você for honesto consigo mesmo, como o dia se transforma em noite, você nunca mentirá para os outros."
+    },
+    {
+      "author": "William Shakespeare",
+      "quotes": "Uma pulga corajosa é aquela que ousa tomar seu desjejum nos lábios de um leão."
+    },
+    {
+      "author": "Winston Churchill",
+      "quotes": "Ganhamos a vida com o que ganhamos, mas ganhamos a vida com o que damos."
+    },
+    {
+      "author": "Wolfgang von Gothe",
+      "quotes": "Não basta o conhecimento, temos que colocá-lo em prática. Não basta a intenção, temos que fazê-lo."
+    },
+    {
+      "author": "Zachary Scott",
+      "quotes": "Conforme você envelhece, descobrirá que as únicas coisas de que se arrependerá são as coisas que não fez."
+    },
+    {
+      "author": "Zig Zaglar",
+      "quotes": "As pedras fundamentais para o sucesso equilibrado são honestidade, caráter, integridade, fé, amor e lealdade."
+    },
+    {
+      "author": "Zig Zaglar",
+      "quotes": "A maioria das pessoas não consegue atingir seus objetivos não porque não seja capaz, mas porque não está comprometida."
+    },
+    {
+      "author": "Zig Zaglar",
+      "quotes": "Não precisamos ser ótimos quando começamos, mas devemos começar a ser ótimos."
+    }
+  ]`
   }
-]
+  exports.frases = frases
